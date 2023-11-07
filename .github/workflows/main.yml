@@ -15,3 +15,10 @@ jobs:
         run: dotnet restore
       - name: Build
         run: dotnet build
+      - name: Publish
+        run: dotnet publish DBDBuildMeta/DBDBuildMeta.csproj -c Release -o release — nologo
+      - name: Upload Build Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: Application_Artifact
+          path: /home/runner/work/DBDBuildMeta/DBDBuildMeta/release/

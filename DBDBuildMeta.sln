@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBDBuildMeta", "DBDefsListGenerator\DBDBuildMeta.csproj", "{8EA05E51-190C-4694-949D-B17F50C105AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBDBuildMeta", "DBDBuildMeta\DBDBuildMeta.csproj", "{8EA05E51-190C-4694-949D-B17F50C105AE}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBDefsLib", "DBDefsLib\DBDefsLib.csproj", "{C6C929F4-AF8D-4943-9F7A-467AA5BBC8C1}"
 EndProject
