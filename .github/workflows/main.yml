@@ -1,24 +1,33 @@
-name: dotnet package
+name: Generate Meta files
 
-on: [push]
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4      
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
       - name: Setup dotnet
         uses: actions/setup-dotnet@v3
         with:
           dotnet-version: '6.0.x'
-      - name: Install dependencies
-        run: dotnet restore
-      - name: Build
-        run: dotnet build
       - name: Publish
-        run: dotnet publish DBDBuildMeta/DBDBuildMeta.csproj -c Release -o release — nologo
-      - name: Upload Build Artifact
-        uses: actions/upload-artifact@v2
+        run: dotnet publish -c Release -o release
+      - name: Run
+        run: |
+          cd /home/runner/work/DBDBuildMeta/DBDBuildMeta/release/
+          dotnet DBDBuildMeta.dll
+          cd /home/runner/work/DBDBuildMeta/DBDBuildMeta/
+          rm -rf /home/runner/work/DBDBuildMeta/DBDBuildMeta/Meta
+          mv /home/runner/work/DBDBuildMeta/DBDBuildMeta/release/Meta /home/runner/work/DBDBuildMeta/DBDBuildMeta/Meta
+          rm -rf /home/runner/work/DBDBuildMeta/DBDBuildMeta/release/
+      - name: Commit & Push changes
+        uses: actions-js/push@master
         with:
-          name: Application_Artifact
-          path: /home/runner/work/DBDBuildMeta/DBDBuildMeta/release/
+          github_token: ${{ secrets.ACTION_TOKEN }}
