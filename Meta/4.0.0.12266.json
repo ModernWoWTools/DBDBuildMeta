@@ -1,0 +1,9 @@
+[
+  {
+    "name": "areatable",
+    "displayName": "AreaTable",
+    "dbdName": "AreaTable.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTable.dbd",
+    "layoutHashes": []
+  }
+]

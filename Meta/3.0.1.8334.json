@@ -1,0 +1,9 @@
+[
+  {
+    "name": "skillline",
+    "displayName": "SkillLine",
+    "dbdName": "SkillLine.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLine.dbd",
+    "layoutHashes": []
+  }
+]

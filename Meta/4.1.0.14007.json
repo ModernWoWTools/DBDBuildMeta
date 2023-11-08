@@ -1,0 +1,9 @@
+[
+  {
+    "name": "animationdata",
+    "displayName": "AnimationData",
+    "dbdName": "AnimationData.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AnimationData.dbd",
+    "layoutHashes": []
+  }
+]

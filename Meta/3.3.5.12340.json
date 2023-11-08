@@ -1,0 +1,30 @@
+[
+  {
+    "name": "attackanimkits",
+    "displayName": "AttackAnimKits",
+    "dbdName": "AttackAnimKits.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimKits.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "sheathesoundlookups",
+    "displayName": "SheatheSoundLookups",
+    "dbdName": "SheatheSoundLookups.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SheatheSoundLookups.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "attackanimtypes",
+    "displayName": "AttackAnimTypes",
+    "dbdName": "AttackAnimTypes.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimTypes.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "soundwatertype",
+    "displayName": "SoundWaterType",
+    "dbdName": "SoundWaterType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundWaterType.dbd",
+    "layoutHashes": []
+  }
+]

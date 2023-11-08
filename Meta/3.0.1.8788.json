@@ -1,0 +1,16 @@
+[
+  {
+    "name": "map",
+    "displayName": "Map",
+    "dbdName": "Map.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "vehicle",
+    "displayName": "Vehicle",
+    "dbdName": "Vehicle.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Vehicle.dbd",
+    "layoutHashes": []
+  }
+]

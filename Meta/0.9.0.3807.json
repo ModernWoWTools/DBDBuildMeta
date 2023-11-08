@@ -1,0 +1,16 @@
+[
+  {
+    "name": "cinematicsubtitle",
+    "displayName": "CinematicSubtitle",
+    "dbdName": "CinematicSubtitle.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CinematicSubtitle.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "cinematic",
+    "displayName": "Cinematic",
+    "dbdName": "Cinematic.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Cinematic.dbd",
+    "layoutHashes": []
+  }
+]

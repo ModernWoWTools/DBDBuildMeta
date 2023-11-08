@@ -1,0 +1,11 @@
+[
+  {
+    "name": "filedatacomplete",
+    "displayName": "FileDataComplete",
+    "dbdName": "FileDataComplete.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FileDataComplete.dbd",
+    "layoutHashes": [
+      "EEA700D9"
+    ]
+  }
+]

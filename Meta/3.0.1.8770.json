@@ -1,0 +1,9 @@
+[
+  {
+    "name": "vehicle",
+    "displayName": "Vehicle",
+    "dbdName": "Vehicle.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Vehicle.dbd",
+    "layoutHashes": []
+  }
+]

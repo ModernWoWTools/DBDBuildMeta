@@ -1,0 +1,16 @@
+[
+  {
+    "name": "achievement",
+    "displayName": "Achievement",
+    "dbdName": "Achievement.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Achievement.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "vehicleseat",
+    "displayName": "VehicleSeat",
+    "dbdName": "VehicleSeat.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/VehicleSeat.dbd",
+    "layoutHashes": []
+  }
+]

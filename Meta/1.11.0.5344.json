@@ -1,0 +1,9 @@
+[
+  {
+    "name": "groundeffecttexture",
+    "displayName": "GroundEffectTexture",
+    "dbdName": "GroundEffectTexture.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/GroundEffectTexture.dbd",
+    "layoutHashes": []
+  }
+]
