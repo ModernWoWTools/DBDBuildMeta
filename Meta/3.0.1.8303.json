@@ -1,135 +1,9 @@
 [
   {
-    "name": "factiontemplate",
-    "displayName": "FactionTemplate",
-    "dbdName": "FactionTemplate.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "itemset",
-    "displayName": "ItemSet",
-    "dbdName": "ItemSet.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemSet.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "creaturefamily",
-    "displayName": "CreatureFamily",
-    "dbdName": "CreatureFamily.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureFamily.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "itemdisplayinfo",
-    "displayName": "ItemDisplayInfo",
-    "dbdName": "ItemDisplayInfo.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemDisplayInfo.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "itemvisuals",
-    "displayName": "ItemVisuals",
-    "dbdName": "ItemVisuals.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemVisuals.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "faction",
-    "displayName": "Faction",
-    "dbdName": "Faction.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Faction.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "creaturespelldata",
-    "displayName": "CreatureSpellData",
-    "dbdName": "CreatureSpellData.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureSpellData.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "itemrandomsuffix",
-    "displayName": "ItemRandomSuffix",
-    "dbdName": "ItemRandomSuffix.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemRandomSuffix.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "questsort",
-    "displayName": "QuestSort",
-    "dbdName": "QuestSort.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/QuestSort.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "taxipathnode",
-    "displayName": "TaxiPathNode",
-    "dbdName": "TaxiPathNode.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiPathNode.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellchaineffects",
-    "displayName": "SpellChainEffects",
-    "dbdName": "SpellChainEffects.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellChainEffects.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellvisualeffectname",
-    "displayName": "SpellVisualEffectName",
-    "dbdName": "SpellVisualEffectName.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualEffectName.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "skilltiers",
-    "displayName": "SkillTiers",
-    "dbdName": "SkillTiers.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillTiers.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellmissilemotion",
-    "displayName": "SpellMissileMotion",
-    "dbdName": "SpellMissileMotion.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellMissileMotion.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellitemenchantmentcondition",
-    "displayName": "SpellItemEnchantmentCondition",
-    "dbdName": "SpellItemEnchantmentCondition.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellItemEnchantmentCondition.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "skillraceclassinfo",
-    "displayName": "SkillRaceClassInfo",
-    "dbdName": "SkillRaceClassInfo.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillRaceClassInfo.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "weather",
-    "displayName": "Weather",
-    "dbdName": "Weather.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Weather.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "taxipath",
-    "displayName": "TaxiPath",
-    "dbdName": "TaxiPath.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiPath.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "skilllinecategory",
-    "displayName": "SkillLineCategory",
-    "dbdName": "SkillLineCategory.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLineCategory.dbd",
+    "name": "spellvisual",
+    "displayName": "SpellVisual",
+    "dbdName": "SpellVisual.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisual.dbd",
     "layoutHashes": []
   },
   {
@@ -140,45 +14,17 @@
     "layoutHashes": []
   },
   {
-    "name": "itemvisualeffects",
-    "displayName": "ItemVisualEffects",
-    "dbdName": "ItemVisualEffects.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemVisualEffects.dbd",
+    "name": "creaturespelldata",
+    "displayName": "CreatureSpellData",
+    "dbdName": "CreatureSpellData.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureSpellData.dbd",
     "layoutHashes": []
   },
   {
-    "name": "areatrigger",
-    "displayName": "AreaTrigger",
-    "dbdName": "AreaTrigger.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTrigger.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "vehicle",
-    "displayName": "Vehicle",
-    "dbdName": "Vehicle.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Vehicle.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "itemrandomproperties",
-    "displayName": "ItemRandomProperties",
-    "dbdName": "ItemRandomProperties.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemRandomProperties.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellvisualkit",
-    "displayName": "SpellVisualKit",
-    "dbdName": "SpellVisualKit.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualKit.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellvisual",
-    "displayName": "SpellVisual",
-    "dbdName": "SpellVisual.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisual.dbd",
+    "name": "vehicleseat",
+    "displayName": "VehicleSeat",
+    "dbdName": "VehicleSeat.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/VehicleSeat.dbd",
     "layoutHashes": []
   },
   {
@@ -189,6 +35,20 @@
     "layoutHashes": []
   },
   {
+    "name": "holidays",
+    "displayName": "Holidays",
+    "dbdName": "Holidays.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Holidays.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "areatrigger",
+    "displayName": "AreaTrigger",
+    "dbdName": "AreaTrigger.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTrigger.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "achievement",
     "displayName": "Achievement",
     "dbdName": "Achievement.dbd",
@@ -196,24 +56,45 @@
     "layoutHashes": []
   },
   {
-    "name": "taxinodes",
-    "displayName": "TaxiNodes",
-    "dbdName": "TaxiNodes.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiNodes.dbd",
+    "name": "questsort",
+    "displayName": "QuestSort",
+    "dbdName": "QuestSort.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/QuestSort.dbd",
     "layoutHashes": []
   },
   {
-    "name": "skilllineability",
-    "displayName": "SkillLineAbility",
-    "dbdName": "SkillLineAbility.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLineAbility.dbd",
+    "name": "itemvisuals",
+    "displayName": "ItemVisuals",
+    "dbdName": "ItemVisuals.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemVisuals.dbd",
     "layoutHashes": []
   },
   {
-    "name": "liquidtype",
-    "displayName": "LiquidType",
-    "dbdName": "LiquidType.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LiquidType.dbd",
+    "name": "taxipathnode",
+    "displayName": "TaxiPathNode",
+    "dbdName": "TaxiPathNode.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiPathNode.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "itemrandomsuffix",
+    "displayName": "ItemRandomSuffix",
+    "dbdName": "ItemRandomSuffix.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemRandomSuffix.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellvisualeffectname",
+    "displayName": "SpellVisualEffectName",
+    "dbdName": "SpellVisualEffectName.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualEffectName.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "factiontemplate",
+    "displayName": "FactionTemplate",
+    "dbdName": "FactionTemplate.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
     "layoutHashes": []
   },
   {
@@ -231,10 +112,59 @@
     "layoutHashes": []
   },
   {
-    "name": "holidays",
-    "displayName": "Holidays",
-    "dbdName": "Holidays.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Holidays.dbd",
+    "name": "skilllineability",
+    "displayName": "SkillLineAbility",
+    "dbdName": "SkillLineAbility.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLineAbility.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "skillraceclassinfo",
+    "displayName": "SkillRaceClassInfo",
+    "dbdName": "SkillRaceClassInfo.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillRaceClassInfo.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "vehicle",
+    "displayName": "Vehicle",
+    "dbdName": "Vehicle.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Vehicle.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "itemdisplayinfo",
+    "displayName": "ItemDisplayInfo",
+    "dbdName": "ItemDisplayInfo.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemDisplayInfo.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellvisualkit",
+    "displayName": "SpellVisualKit",
+    "dbdName": "SpellVisualKit.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualKit.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "taxinodes",
+    "displayName": "TaxiNodes",
+    "dbdName": "TaxiNodes.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiNodes.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "itemvisualeffects",
+    "displayName": "ItemVisualEffects",
+    "dbdName": "ItemVisualEffects.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemVisualEffects.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "liquidtype",
+    "displayName": "LiquidType",
+    "dbdName": "LiquidType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LiquidType.dbd",
     "layoutHashes": []
   },
   {
@@ -245,10 +175,17 @@
     "layoutHashes": []
   },
   {
-    "name": "vehicleseat",
-    "displayName": "VehicleSeat",
-    "dbdName": "VehicleSeat.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/VehicleSeat.dbd",
+    "name": "skilltiers",
+    "displayName": "SkillTiers",
+    "dbdName": "SkillTiers.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillTiers.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellmissilemotion",
+    "displayName": "SpellMissileMotion",
+    "dbdName": "SpellMissileMotion.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellMissileMotion.dbd",
     "layoutHashes": []
   },
   {
@@ -256,6 +193,69 @@
     "displayName": "QuestInfo",
     "dbdName": "QuestInfo.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/QuestInfo.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "itemrandomproperties",
+    "displayName": "ItemRandomProperties",
+    "dbdName": "ItemRandomProperties.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemRandomProperties.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "taxipath",
+    "displayName": "TaxiPath",
+    "dbdName": "TaxiPath.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiPath.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "faction",
+    "displayName": "Faction",
+    "dbdName": "Faction.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Faction.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "weather",
+    "displayName": "Weather",
+    "dbdName": "Weather.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Weather.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellchaineffects",
+    "displayName": "SpellChainEffects",
+    "dbdName": "SpellChainEffects.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellChainEffects.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "creaturefamily",
+    "displayName": "CreatureFamily",
+    "dbdName": "CreatureFamily.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureFamily.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "itemset",
+    "displayName": "ItemSet",
+    "dbdName": "ItemSet.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemSet.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellitemenchantmentcondition",
+    "displayName": "SpellItemEnchantmentCondition",
+    "dbdName": "SpellItemEnchantmentCondition.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellItemEnchantmentCondition.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "skilllinecategory",
+    "displayName": "SkillLineCategory",
+    "dbdName": "SkillLineCategory.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLineCategory.dbd",
     "layoutHashes": []
   }
 ]
