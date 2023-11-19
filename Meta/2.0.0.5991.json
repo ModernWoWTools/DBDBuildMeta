@@ -1,9 +1,9 @@
 [
   {
-    "name": "spellitemenchantment",
-    "displayName": "SpellItemEnchantment",
-    "dbdName": "SpellItemEnchantment.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellItemEnchantment.dbd",
+    "name": "itemset",
+    "displayName": "ItemSet",
+    "dbdName": "ItemSet.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemSet.dbd",
     "layoutHashes": []
   },
   {
@@ -14,13 +14,6 @@
     "layoutHashes": []
   },
   {
-    "name": "groundeffecttexture",
-    "displayName": "GroundEffectTexture",
-    "dbdName": "GroundEffectTexture.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/GroundEffectTexture.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "spelldispeltype",
     "displayName": "SpellDispelType",
     "dbdName": "SpellDispelType.dbd",
@@ -28,10 +21,10 @@
     "layoutHashes": []
   },
   {
-    "name": "chrclasses",
-    "displayName": "ChrClasses",
-    "dbdName": "ChrClasses.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ChrClasses.dbd",
+    "name": "map",
+    "displayName": "Map",
+    "dbdName": "Map.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
     "layoutHashes": []
   },
   {
@@ -42,24 +35,10 @@
     "layoutHashes": []
   },
   {
-    "name": "creaturemodeldata",
-    "displayName": "CreatureModelData",
-    "dbdName": "CreatureModelData.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureModelData.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "worldmaparea",
-    "displayName": "WorldMapArea",
-    "dbdName": "WorldMapArea.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapArea.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "worldstateui",
-    "displayName": "WorldStateUI",
-    "dbdName": "WorldStateUI.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldStateUI.dbd",
+    "name": "chrclasses",
+    "displayName": "ChrClasses",
+    "dbdName": "ChrClasses.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ChrClasses.dbd",
     "layoutHashes": []
   },
   {
@@ -67,6 +46,34 @@
     "displayName": "SpellShapeshiftForm",
     "dbdName": "SpellShapeshiftForm.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellShapeshiftForm.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "creaturemodeldata",
+    "displayName": "CreatureModelData",
+    "dbdName": "CreatureModelData.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureModelData.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellitemenchantment",
+    "displayName": "SpellItemEnchantment",
+    "dbdName": "SpellItemEnchantment.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellItemEnchantment.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "groundeffecttexture",
+    "displayName": "GroundEffectTexture",
+    "dbdName": "GroundEffectTexture.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/GroundEffectTexture.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "worldmaparea",
+    "displayName": "WorldMapArea",
+    "dbdName": "WorldMapArea.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapArea.dbd",
     "layoutHashes": []
   },
   {
@@ -84,17 +91,10 @@
     "layoutHashes": []
   },
   {
-    "name": "itemset",
-    "displayName": "ItemSet",
-    "dbdName": "ItemSet.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemSet.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "map",
-    "displayName": "Map",
-    "dbdName": "Map.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
+    "name": "worldstateui",
+    "displayName": "WorldStateUI",
+    "dbdName": "WorldStateUI.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldStateUI.dbd",
     "layoutHashes": []
   }
 ]

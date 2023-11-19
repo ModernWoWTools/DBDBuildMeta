@@ -1,19 +1,5 @@
 [
   {
-    "name": "spellreagents",
-    "displayName": "SpellReagents",
-    "dbdName": "SpellReagents.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellReagents.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "scenescriptpackagemember",
-    "displayName": "SceneScriptPackageMember",
-    "dbdName": "SceneScriptPackageMember.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScriptPackageMember.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "worldelapsedtimer",
     "displayName": "WorldElapsedTimer",
     "dbdName": "WorldElapsedTimer.dbd",
@@ -28,6 +14,27 @@
     "layoutHashes": []
   },
   {
+    "name": "battlepetability",
+    "displayName": "BattlePetAbility",
+    "dbdName": "BattlePetAbility.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbility.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "scenescriptpackagemember",
+    "displayName": "SceneScriptPackageMember",
+    "dbdName": "SceneScriptPackageMember.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScriptPackageMember.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellreagents",
+    "displayName": "SpellReagents",
+    "dbdName": "SpellReagents.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellReagents.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "lfgdungeons",
     "displayName": "LFGDungeons",
     "dbdName": "LFGDungeons.dbd",
@@ -39,13 +46,6 @@
     "displayName": "BattlePetSpecies",
     "dbdName": "BattlePetSpecies.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetSpecies.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "battlepetability",
-    "displayName": "BattlePetAbility",
-    "dbdName": "BattlePetAbility.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbility.dbd",
     "layoutHashes": []
   }
 ]
