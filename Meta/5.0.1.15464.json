@@ -1,5 +1,12 @@
 [
   {
+    "name": "battlepetspecies",
+    "displayName": "BattlePetSpecies",
+    "dbdName": "BattlePetSpecies.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetSpecies.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "spellreagents",
     "displayName": "SpellReagents",
     "dbdName": "SpellReagents.dbd",
@@ -7,10 +14,10 @@
     "layoutHashes": []
   },
   {
-    "name": "scenescriptpackagemember",
-    "displayName": "SceneScriptPackageMember",
-    "dbdName": "SceneScriptPackageMember.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScriptPackageMember.dbd",
+    "name": "battlepetability",
+    "displayName": "BattlePetAbility",
+    "dbdName": "BattlePetAbility.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbility.dbd",
     "layoutHashes": []
   },
   {
@@ -21,13 +28,6 @@
     "layoutHashes": []
   },
   {
-    "name": "scenescript",
-    "displayName": "SceneScript",
-    "dbdName": "SceneScript.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScript.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "lfgdungeons",
     "displayName": "LFGDungeons",
     "dbdName": "LFGDungeons.dbd",
@@ -35,17 +35,17 @@
     "layoutHashes": []
   },
   {
-    "name": "battlepetspecies",
-    "displayName": "BattlePetSpecies",
-    "dbdName": "BattlePetSpecies.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetSpecies.dbd",
+    "name": "scenescript",
+    "displayName": "SceneScript",
+    "dbdName": "SceneScript.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScript.dbd",
     "layoutHashes": []
   },
   {
-    "name": "battlepetability",
-    "displayName": "BattlePetAbility",
-    "dbdName": "BattlePetAbility.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbility.dbd",
+    "name": "scenescriptpackagemember",
+    "displayName": "SceneScriptPackageMember",
+    "dbdName": "SceneScriptPackageMember.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScriptPackageMember.dbd",
     "layoutHashes": []
   }
 ]

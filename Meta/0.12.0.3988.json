@@ -1,37 +1,9 @@
 [
   {
-    "name": "startup_strings",
-    "displayName": "Startup_Strings",
-    "dbdName": "Startup_Strings.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Startup_Strings.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "durabilityquality",
     "displayName": "DurabilityQuality",
     "dbdName": "DurabilityQuality.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/DurabilityQuality.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spelldispeltype",
-    "displayName": "SpellDispelType",
-    "dbdName": "SpellDispelType.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellDispelType.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "factiontemplate",
-    "displayName": "FactionTemplate",
-    "dbdName": "FactionTemplate.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "durabilitycosts",
-    "displayName": "DurabilityCosts",
-    "dbdName": "DurabilityCosts.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/DurabilityCosts.dbd",
     "layoutHashes": []
   },
   {
@@ -46,6 +18,34 @@
     "displayName": "WorldMapContinent",
     "dbdName": "WorldMapContinent.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapContinent.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "factiontemplate",
+    "displayName": "FactionTemplate",
+    "dbdName": "FactionTemplate.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spelldispeltype",
+    "displayName": "SpellDispelType",
+    "dbdName": "SpellDispelType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellDispelType.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "durabilitycosts",
+    "displayName": "DurabilityCosts",
+    "dbdName": "DurabilityCosts.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/DurabilityCosts.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "startup_strings",
+    "displayName": "Startup_Strings",
+    "dbdName": "Startup_Strings.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Startup_Strings.dbd",
     "layoutHashes": []
   }
 ]
