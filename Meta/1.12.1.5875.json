@@ -1,9 +1,16 @@
 [
   {
-    "name": "spellauranames",
-    "displayName": "SpellAuraNames",
-    "dbdName": "SpellAuraNames.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraNames.dbd",
+    "name": "petloyalty",
+    "displayName": "PetLoyalty",
+    "dbdName": "PetLoyalty.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PetLoyalty.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "map",
+    "displayName": "Map",
+    "dbdName": "Map.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
     "layoutHashes": []
   },
   {
@@ -21,10 +28,10 @@
     "layoutHashes": []
   },
   {
-    "name": "uisoundlookups",
-    "displayName": "UISoundLookups",
-    "dbdName": "UISoundLookups.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/UISoundLookups.dbd",
+    "name": "soundcharactermacrolines",
+    "displayName": "SoundCharacterMacroLines",
+    "dbdName": "SoundCharacterMacroLines.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundCharacterMacroLines.dbd",
     "layoutHashes": []
   },
   {
@@ -42,24 +49,10 @@
     "layoutHashes": []
   },
   {
-    "name": "petloyalty",
-    "displayName": "PetLoyalty",
-    "dbdName": "PetLoyalty.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PetLoyalty.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "map",
-    "displayName": "Map",
-    "dbdName": "Map.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "soundcharactermacrolines",
-    "displayName": "SoundCharacterMacroLines",
-    "dbdName": "SoundCharacterMacroLines.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundCharacterMacroLines.dbd",
+    "name": "uisoundlookups",
+    "displayName": "UISoundLookups",
+    "dbdName": "UISoundLookups.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/UISoundLookups.dbd",
     "layoutHashes": []
   },
   {
@@ -67,6 +60,13 @@
     "displayName": "SheatheSoundLookups",
     "dbdName": "SheatheSoundLookups.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SheatheSoundLookups.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellauranames",
+    "displayName": "SpellAuraNames",
+    "dbdName": "SpellAuraNames.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraNames.dbd",
     "layoutHashes": []
   }
 ]

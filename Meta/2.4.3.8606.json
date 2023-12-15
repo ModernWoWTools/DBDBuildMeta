@@ -1,9 +1,9 @@
 [
   {
-    "name": "summonproperties",
-    "displayName": "SummonProperties",
-    "dbdName": "SummonProperties.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SummonProperties.dbd",
+    "name": "gtnpcmanacostscaler",
+    "displayName": "gtNPCManaCostScaler",
+    "dbdName": "gtNPCManaCostScaler.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/gtNPCManaCostScaler.dbd",
     "layoutHashes": []
   },
   {
@@ -14,10 +14,10 @@
     "layoutHashes": []
   },
   {
-    "name": "gtnpcmanacostscaler",
-    "displayName": "gtNPCManaCostScaler",
-    "dbdName": "gtNPCManaCostScaler.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/gtNPCManaCostScaler.dbd",
+    "name": "summonproperties",
+    "displayName": "SummonProperties",
+    "dbdName": "SummonProperties.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SummonProperties.dbd",
     "layoutHashes": []
   }
 ]
