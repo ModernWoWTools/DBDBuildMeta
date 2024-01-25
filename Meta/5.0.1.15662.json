@@ -1,5 +1,19 @@
 [
   {
+    "name": "soundentries",
+    "displayName": "SoundEntries",
+    "dbdName": "SoundEntries.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundEntries.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellauraoptions",
+    "displayName": "SpellAuraOptions",
+    "dbdName": "SpellAuraOptions.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraOptions.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "playercondition",
     "displayName": "PlayerCondition",
     "dbdName": "PlayerCondition.dbd",
@@ -11,20 +25,6 @@
     "displayName": "SkillLineAbility",
     "dbdName": "SkillLineAbility.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLineAbility.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellauraoptions",
-    "displayName": "SpellAuraOptions",
-    "dbdName": "SpellAuraOptions.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraOptions.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "soundentries",
-    "displayName": "SoundEntries",
-    "dbdName": "SoundEntries.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundEntries.dbd",
     "layoutHashes": []
   }
 ]

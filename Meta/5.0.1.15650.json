@@ -1,9 +1,9 @@
 [
   {
-    "name": "playercondition",
-    "displayName": "PlayerCondition",
-    "dbdName": "PlayerCondition.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PlayerCondition.dbd",
+    "name": "soundentries",
+    "displayName": "SoundEntries",
+    "dbdName": "SoundEntries.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundEntries.dbd",
     "layoutHashes": []
   },
   {
@@ -14,10 +14,10 @@
     "layoutHashes": []
   },
   {
-    "name": "soundentries",
-    "displayName": "SoundEntries",
-    "dbdName": "SoundEntries.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundEntries.dbd",
+    "name": "playercondition",
+    "displayName": "PlayerCondition",
+    "dbdName": "PlayerCondition.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PlayerCondition.dbd",
     "layoutHashes": []
   }
 ]

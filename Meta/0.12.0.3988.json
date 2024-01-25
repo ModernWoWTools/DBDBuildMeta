@@ -1,23 +1,16 @@
 [
   {
+    "name": "spelldispeltype",
+    "displayName": "SpellDispelType",
+    "dbdName": "SpellDispelType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellDispelType.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "factiontemplate",
     "displayName": "FactionTemplate",
     "dbdName": "FactionTemplate.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "startup_strings",
-    "displayName": "Startup_Strings",
-    "dbdName": "Startup_Strings.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Startup_Strings.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "worldmapcontinent",
-    "displayName": "WorldMapContinent",
-    "dbdName": "WorldMapContinent.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapContinent.dbd",
     "layoutHashes": []
   },
   {
@@ -28,10 +21,10 @@
     "layoutHashes": []
   },
   {
-    "name": "spelldispeltype",
-    "displayName": "SpellDispelType",
-    "dbdName": "SpellDispelType.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellDispelType.dbd",
+    "name": "worldmapcontinent",
+    "displayName": "WorldMapContinent",
+    "dbdName": "WorldMapContinent.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapContinent.dbd",
     "layoutHashes": []
   },
   {
@@ -39,6 +32,13 @@
     "displayName": "Cfg_Configs",
     "dbdName": "Cfg_Configs.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Cfg_Configs.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "startup_strings",
+    "displayName": "Startup_Strings",
+    "dbdName": "Startup_Strings.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Startup_Strings.dbd",
     "layoutHashes": []
   },
   {
