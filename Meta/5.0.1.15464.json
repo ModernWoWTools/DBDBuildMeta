@@ -7,34 +7,6 @@
     "layoutHashes": []
   },
   {
-    "name": "spellreagents",
-    "displayName": "SpellReagents",
-    "dbdName": "SpellReagents.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellReagents.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "battlepetability",
-    "displayName": "BattlePetAbility",
-    "dbdName": "BattlePetAbility.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbility.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "worldelapsedtimer",
-    "displayName": "WorldElapsedTimer",
-    "dbdName": "WorldElapsedTimer.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldElapsedTimer.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "battlepetspecies",
-    "displayName": "BattlePetSpecies",
-    "dbdName": "BattlePetSpecies.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetSpecies.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "scenescript",
     "displayName": "SceneScript",
     "dbdName": "SceneScript.dbd",
@@ -46,6 +18,34 @@
     "displayName": "LFGDungeons",
     "dbdName": "LFGDungeons.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LFGDungeons.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "worldelapsedtimer",
+    "displayName": "WorldElapsedTimer",
+    "dbdName": "WorldElapsedTimer.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldElapsedTimer.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "battlepetability",
+    "displayName": "BattlePetAbility",
+    "dbdName": "BattlePetAbility.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbility.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "battlepetspecies",
+    "displayName": "BattlePetSpecies",
+    "dbdName": "BattlePetSpecies.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetSpecies.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellreagents",
+    "displayName": "SpellReagents",
+    "dbdName": "SpellReagents.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellReagents.dbd",
     "layoutHashes": []
   }
 ]
