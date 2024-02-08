@@ -1,23 +1,9 @@
 [
   {
-    "name": "durabilityquality",
-    "displayName": "DurabilityQuality",
-    "dbdName": "DurabilityQuality.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/DurabilityQuality.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "durabilitycosts",
-    "displayName": "DurabilityCosts",
-    "dbdName": "DurabilityCosts.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/DurabilityCosts.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "factiontemplate",
-    "displayName": "FactionTemplate",
-    "dbdName": "FactionTemplate.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
+    "name": "cfg_configs",
+    "displayName": "Cfg_Configs",
+    "dbdName": "Cfg_Configs.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Cfg_Configs.dbd",
     "layoutHashes": []
   },
   {
@@ -28,6 +14,20 @@
     "layoutHashes": []
   },
   {
+    "name": "durabilitycosts",
+    "displayName": "DurabilityCosts",
+    "dbdName": "DurabilityCosts.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/DurabilityCosts.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "durabilityquality",
+    "displayName": "DurabilityQuality",
+    "dbdName": "DurabilityQuality.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/DurabilityQuality.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "worldmapcontinent",
     "displayName": "WorldMapContinent",
     "dbdName": "WorldMapContinent.dbd",
@@ -35,10 +35,10 @@
     "layoutHashes": []
   },
   {
-    "name": "cfg_configs",
-    "displayName": "Cfg_Configs",
-    "dbdName": "Cfg_Configs.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Cfg_Configs.dbd",
+    "name": "factiontemplate",
+    "displayName": "FactionTemplate",
+    "dbdName": "FactionTemplate.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
     "layoutHashes": []
   },
   {

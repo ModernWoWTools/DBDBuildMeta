@@ -1,9 +1,9 @@
 [
   {
-    "name": "zonemusic",
-    "displayName": "ZoneMusic",
-    "dbdName": "ZoneMusic.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ZoneMusic.dbd",
+    "name": "spellvisualanimname",
+    "displayName": "SpellVisualAnimName",
+    "dbdName": "SpellVisualAnimName.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualAnimName.dbd",
     "layoutHashes": []
   },
   {
@@ -14,24 +14,10 @@
     "layoutHashes": []
   },
   {
-    "name": "areatable",
-    "displayName": "AreaTable",
-    "dbdName": "AreaTable.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTable.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "emoteanims",
-    "displayName": "EmoteAnims",
-    "dbdName": "EmoteAnims.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/EmoteAnims.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "areamidiambiences",
-    "displayName": "AreaMIDIAmbiences",
-    "dbdName": "AreaMIDIAmbiences.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaMIDIAmbiences.dbd",
+    "name": "zonemusic",
+    "displayName": "ZoneMusic",
+    "dbdName": "ZoneMusic.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ZoneMusic.dbd",
     "layoutHashes": []
   },
   {
@@ -42,6 +28,13 @@
     "layoutHashes": []
   },
   {
+    "name": "emoteanims",
+    "displayName": "EmoteAnims",
+    "dbdName": "EmoteAnims.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/EmoteAnims.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "map",
     "displayName": "Map",
     "dbdName": "Map.dbd",
@@ -49,17 +42,17 @@
     "layoutHashes": []
   },
   {
-    "name": "spellvisualanimname",
-    "displayName": "SpellVisualAnimName",
-    "dbdName": "SpellVisualAnimName.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualAnimName.dbd",
+    "name": "areamidiambiences",
+    "displayName": "AreaMIDIAmbiences",
+    "dbdName": "AreaMIDIAmbiences.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaMIDIAmbiences.dbd",
     "layoutHashes": []
   },
   {
-    "name": "chrproficiency",
-    "displayName": "ChrProficiency",
-    "dbdName": "ChrProficiency.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ChrProficiency.dbd",
+    "name": "areatable",
+    "displayName": "AreaTable",
+    "dbdName": "AreaTable.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTable.dbd",
     "layoutHashes": []
   },
   {
@@ -67,6 +60,13 @@
     "displayName": "Exhaustion",
     "dbdName": "Exhaustion.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Exhaustion.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "chrproficiency",
+    "displayName": "ChrProficiency",
+    "dbdName": "ChrProficiency.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ChrProficiency.dbd",
     "layoutHashes": []
   }
 ]

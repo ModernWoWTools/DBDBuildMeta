@@ -1,5 +1,54 @@
 [
   {
+    "name": "itemset",
+    "displayName": "ItemSet",
+    "dbdName": "ItemSet.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemSet.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellitemenchantment",
+    "displayName": "SpellItemEnchantment",
+    "dbdName": "SpellItemEnchantment.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellItemEnchantment.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spelldispeltype",
+    "displayName": "SpellDispelType",
+    "dbdName": "SpellDispelType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellDispelType.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "worldmaparea",
+    "displayName": "WorldMapArea",
+    "dbdName": "WorldMapArea.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapArea.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "worldstateui",
+    "displayName": "WorldStateUI",
+    "dbdName": "WorldStateUI.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldStateUI.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "chrclasses",
+    "displayName": "ChrClasses",
+    "dbdName": "ChrClasses.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ChrClasses.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "map",
+    "displayName": "Map",
+    "dbdName": "Map.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "groundeffecttexture",
     "displayName": "GroundEffectTexture",
     "dbdName": "GroundEffectTexture.dbd",
@@ -14,10 +63,17 @@
     "layoutHashes": []
   },
   {
-    "name": "creaturesounddata",
-    "displayName": "CreatureSoundData",
-    "dbdName": "CreatureSoundData.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureSoundData.dbd",
+    "name": "taxinodes",
+    "displayName": "TaxiNodes",
+    "dbdName": "TaxiNodes.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiNodes.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "creaturemodeldata",
+    "displayName": "CreatureModelData",
+    "dbdName": "CreatureModelData.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureModelData.dbd",
     "layoutHashes": []
   },
   {
@@ -35,66 +91,10 @@
     "layoutHashes": []
   },
   {
-    "name": "spellitemenchantment",
-    "displayName": "SpellItemEnchantment",
-    "dbdName": "SpellItemEnchantment.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellItemEnchantment.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "map",
-    "displayName": "Map",
-    "dbdName": "Map.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spelldispeltype",
-    "displayName": "SpellDispelType",
-    "dbdName": "SpellDispelType.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellDispelType.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "chrclasses",
-    "displayName": "ChrClasses",
-    "dbdName": "ChrClasses.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ChrClasses.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "worldstateui",
-    "displayName": "WorldStateUI",
-    "dbdName": "WorldStateUI.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldStateUI.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "itemset",
-    "displayName": "ItemSet",
-    "dbdName": "ItemSet.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemSet.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "worldmaparea",
-    "displayName": "WorldMapArea",
-    "dbdName": "WorldMapArea.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapArea.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "taxinodes",
-    "displayName": "TaxiNodes",
-    "dbdName": "TaxiNodes.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiNodes.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "creaturemodeldata",
-    "displayName": "CreatureModelData",
-    "dbdName": "CreatureModelData.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureModelData.dbd",
+    "name": "creaturesounddata",
+    "displayName": "CreatureSoundData",
+    "dbdName": "CreatureSoundData.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureSoundData.dbd",
     "layoutHashes": []
   }
 ]
