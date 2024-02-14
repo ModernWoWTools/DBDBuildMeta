@@ -1,12 +1,5 @@
 [
   {
-    "name": "spell",
-    "displayName": "Spell",
-    "dbdName": "Spell.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Spell.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "chrclasses",
     "displayName": "ChrClasses",
     "dbdName": "ChrClasses.dbd",
@@ -18,6 +11,13 @@
     "displayName": "Emotes",
     "dbdName": "Emotes.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Emotes.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spell",
+    "displayName": "Spell",
+    "dbdName": "Spell.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Spell.dbd",
     "layoutHashes": []
   }
 ]

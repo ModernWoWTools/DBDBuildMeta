@@ -1,33 +1,5 @@
 [
   {
-    "name": "itemset",
-    "displayName": "ItemSet",
-    "dbdName": "ItemSet.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemSet.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellitemenchantment",
-    "displayName": "SpellItemEnchantment",
-    "dbdName": "SpellItemEnchantment.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellItemEnchantment.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spelldispeltype",
-    "displayName": "SpellDispelType",
-    "dbdName": "SpellDispelType.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellDispelType.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "worldmaparea",
-    "displayName": "WorldMapArea",
-    "dbdName": "WorldMapArea.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapArea.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "worldstateui",
     "displayName": "WorldStateUI",
     "dbdName": "WorldStateUI.dbd",
@@ -42,10 +14,24 @@
     "layoutHashes": []
   },
   {
-    "name": "map",
-    "displayName": "Map",
-    "dbdName": "Map.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
+    "name": "creaturesounddata",
+    "displayName": "CreatureSoundData",
+    "dbdName": "CreatureSoundData.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureSoundData.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "itemset",
+    "displayName": "ItemSet",
+    "dbdName": "ItemSet.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemSet.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellitemenchantment",
+    "displayName": "SpellItemEnchantment",
+    "dbdName": "SpellItemEnchantment.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellItemEnchantment.dbd",
     "layoutHashes": []
   },
   {
@@ -56,10 +42,24 @@
     "layoutHashes": []
   },
   {
-    "name": "areatable",
-    "displayName": "AreaTable",
-    "dbdName": "AreaTable.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTable.dbd",
+    "name": "spelldispeltype",
+    "displayName": "SpellDispelType",
+    "dbdName": "SpellDispelType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellDispelType.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellshapeshiftform",
+    "displayName": "SpellShapeshiftForm",
+    "dbdName": "SpellShapeshiftForm.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellShapeshiftForm.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "worldmaparea",
+    "displayName": "WorldMapArea",
+    "dbdName": "WorldMapArea.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapArea.dbd",
     "layoutHashes": []
   },
   {
@@ -67,6 +67,13 @@
     "displayName": "TaxiNodes",
     "dbdName": "TaxiNodes.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiNodes.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "map",
+    "displayName": "Map",
+    "dbdName": "Map.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
     "layoutHashes": []
   },
   {
@@ -84,17 +91,10 @@
     "layoutHashes": []
   },
   {
-    "name": "spellshapeshiftform",
-    "displayName": "SpellShapeshiftForm",
-    "dbdName": "SpellShapeshiftForm.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellShapeshiftForm.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "creaturesounddata",
-    "displayName": "CreatureSoundData",
-    "dbdName": "CreatureSoundData.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureSoundData.dbd",
+    "name": "areatable",
+    "displayName": "AreaTable",
+    "dbdName": "AreaTable.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTable.dbd",
     "layoutHashes": []
   }
 ]
