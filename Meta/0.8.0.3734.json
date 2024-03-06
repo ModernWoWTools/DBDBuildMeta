@@ -1,9 +1,9 @@
 [
   {
-    "name": "talenttab",
-    "displayName": "TalentTab",
-    "dbdName": "TalentTab.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TalentTab.dbd",
+    "name": "spell",
+    "displayName": "Spell",
+    "dbdName": "Spell.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Spell.dbd",
     "layoutHashes": []
   },
   {
@@ -21,10 +21,10 @@
     "layoutHashes": []
   },
   {
-    "name": "spell",
-    "displayName": "Spell",
-    "dbdName": "Spell.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Spell.dbd",
+    "name": "talenttab",
+    "displayName": "TalentTab",
+    "dbdName": "TalentTab.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TalentTab.dbd",
     "layoutHashes": []
   }
 ]

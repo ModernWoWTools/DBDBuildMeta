@@ -1,9 +1,9 @@
 [
   {
-    "name": "soundwatertype",
-    "displayName": "SoundWaterType",
-    "dbdName": "SoundWaterType.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundWaterType.dbd",
+    "name": "attackanimtypes",
+    "displayName": "AttackAnimTypes",
+    "dbdName": "AttackAnimTypes.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimTypes.dbd",
     "layoutHashes": []
   },
   {
@@ -14,17 +14,17 @@
     "layoutHashes": []
   },
   {
+    "name": "soundwatertype",
+    "displayName": "SoundWaterType",
+    "dbdName": "SoundWaterType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundWaterType.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "sheathesoundlookups",
     "displayName": "SheatheSoundLookups",
     "dbdName": "SheatheSoundLookups.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SheatheSoundLookups.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "attackanimtypes",
-    "displayName": "AttackAnimTypes",
-    "dbdName": "AttackAnimTypes.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimTypes.dbd",
     "layoutHashes": []
   }
 ]

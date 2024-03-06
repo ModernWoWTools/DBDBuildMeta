@@ -7,38 +7,10 @@
     "layoutHashes": []
   },
   {
-    "name": "charactercreatecameras",
-    "displayName": "CharacterCreateCameras",
-    "dbdName": "CharacterCreateCameras.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharacterCreateCameras.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "uisoundlookups",
-    "displayName": "UISoundLookups",
-    "dbdName": "UISoundLookups.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/UISoundLookups.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "charvariations",
-    "displayName": "CharVariations",
-    "dbdName": "CharVariations.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharVariations.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellauranames",
-    "displayName": "SpellAuraNames",
-    "dbdName": "SpellAuraNames.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraNames.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "sheathesoundlookups",
-    "displayName": "SheatheSoundLookups",
-    "dbdName": "SheatheSoundLookups.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SheatheSoundLookups.dbd",
+    "name": "attackanimtypes",
+    "displayName": "AttackAnimTypes",
+    "dbdName": "AttackAnimTypes.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimTypes.dbd",
     "layoutHashes": []
   },
   {
@@ -46,13 +18,6 @@
     "displayName": "SoundCharacterMacroLines",
     "dbdName": "SoundCharacterMacroLines.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundCharacterMacroLines.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "attackanimtypes",
-    "displayName": "AttackAnimTypes",
-    "dbdName": "AttackAnimTypes.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimTypes.dbd",
     "layoutHashes": []
   },
   {
@@ -67,6 +32,41 @@
     "displayName": "PetLoyalty",
     "dbdName": "PetLoyalty.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PetLoyalty.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellauranames",
+    "displayName": "SpellAuraNames",
+    "dbdName": "SpellAuraNames.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraNames.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "charactercreatecameras",
+    "displayName": "CharacterCreateCameras",
+    "dbdName": "CharacterCreateCameras.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharacterCreateCameras.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "sheathesoundlookups",
+    "displayName": "SheatheSoundLookups",
+    "dbdName": "SheatheSoundLookups.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SheatheSoundLookups.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "charvariations",
+    "displayName": "CharVariations",
+    "dbdName": "CharVariations.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharVariations.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "uisoundlookups",
+    "displayName": "UISoundLookups",
+    "dbdName": "UISoundLookups.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/UISoundLookups.dbd",
     "layoutHashes": []
   }
 ]
