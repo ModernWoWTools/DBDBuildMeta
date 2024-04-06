@@ -1,9 +1,9 @@
 [
   {
-    "name": "spelldispeltype",
-    "displayName": "SpellDispelType",
-    "dbdName": "SpellDispelType.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellDispelType.dbd",
+    "name": "worldmapcontinent",
+    "displayName": "WorldMapContinent",
+    "dbdName": "WorldMapContinent.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapContinent.dbd",
     "layoutHashes": []
   },
   {
@@ -14,24 +14,24 @@
     "layoutHashes": []
   },
   {
-    "name": "cfg_configs",
-    "displayName": "Cfg_Configs",
-    "dbdName": "Cfg_Configs.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Cfg_Configs.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "worldmapcontinent",
-    "displayName": "WorldMapContinent",
-    "dbdName": "WorldMapContinent.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapContinent.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "durabilityquality",
     "displayName": "DurabilityQuality",
     "dbdName": "DurabilityQuality.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/DurabilityQuality.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spelldispeltype",
+    "displayName": "SpellDispelType",
+    "dbdName": "SpellDispelType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellDispelType.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "startup_strings",
+    "displayName": "Startup_Strings",
+    "dbdName": "Startup_Strings.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Startup_Strings.dbd",
     "layoutHashes": []
   },
   {
@@ -42,10 +42,10 @@
     "layoutHashes": []
   },
   {
-    "name": "startup_strings",
-    "displayName": "Startup_Strings",
-    "dbdName": "Startup_Strings.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Startup_Strings.dbd",
+    "name": "cfg_configs",
+    "displayName": "Cfg_Configs",
+    "dbdName": "Cfg_Configs.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Cfg_Configs.dbd",
     "layoutHashes": []
   }
 ]

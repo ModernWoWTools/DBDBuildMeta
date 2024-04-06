@@ -7,17 +7,17 @@
     "layoutHashes": []
   },
   {
-    "name": "talenttab",
-    "displayName": "TalentTab",
-    "dbdName": "TalentTab.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TalentTab.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "map",
     "displayName": "Map",
     "dbdName": "Map.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "talenttab",
+    "displayName": "TalentTab",
+    "dbdName": "TalentTab.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TalentTab.dbd",
     "layoutHashes": []
   },
   {

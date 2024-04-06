@@ -1,9 +1,9 @@
 [
   {
-    "name": "spellauraoptions",
-    "displayName": "SpellAuraOptions",
-    "dbdName": "SpellAuraOptions.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraOptions.dbd",
+    "name": "playercondition",
+    "displayName": "PlayerCondition",
+    "dbdName": "PlayerCondition.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PlayerCondition.dbd",
     "layoutHashes": []
   },
   {
@@ -14,10 +14,10 @@
     "layoutHashes": []
   },
   {
-    "name": "playercondition",
-    "displayName": "PlayerCondition",
-    "dbdName": "PlayerCondition.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PlayerCondition.dbd",
+    "name": "spellauraoptions",
+    "displayName": "SpellAuraOptions",
+    "dbdName": "SpellAuraOptions.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraOptions.dbd",
     "layoutHashes": []
   }
 ]
