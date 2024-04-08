@@ -1,170 +1,9 @@
 [
   {
-    "name": "spellicon",
-    "displayName": "SpellIcon",
-    "dbdName": "SpellIcon.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellIcon.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "itemvisualeffects",
-    "displayName": "ItemVisualEffects",
-    "dbdName": "ItemVisualEffects.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemVisualEffects.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "taxipathnode",
-    "displayName": "TaxiPathNode",
-    "dbdName": "TaxiPathNode.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiPathNode.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "creaturedisplayinfo",
-    "displayName": "CreatureDisplayInfo",
-    "dbdName": "CreatureDisplayInfo.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureDisplayInfo.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "itemdisplayinfo",
-    "displayName": "ItemDisplayInfo",
-    "dbdName": "ItemDisplayInfo.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemDisplayInfo.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "weaponimpactsounds",
-    "displayName": "WeaponImpactSounds",
-    "dbdName": "WeaponImpactSounds.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WeaponImpactSounds.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellauranames",
-    "displayName": "SpellAuraNames",
-    "dbdName": "SpellAuraNames.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraNames.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "taxinodes",
-    "displayName": "TaxiNodes",
-    "dbdName": "TaxiNodes.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiNodes.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "attackanimtypes",
-    "displayName": "AttackAnimTypes",
-    "dbdName": "AttackAnimTypes.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimTypes.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "characterfacialhairstyles",
-    "displayName": "CharacterFacialHairStyles",
-    "dbdName": "CharacterFacialHairStyles.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharacterFacialHairStyles.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "charbaseinfo",
-    "displayName": "CharBaseInfo",
-    "dbdName": "CharBaseInfo.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharBaseInfo.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "tabardemblemtextures",
-    "displayName": "TabardEmblemTextures",
-    "dbdName": "TabardEmblemTextures.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TabardEmblemTextures.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "weaponswingsounds2",
-    "displayName": "WeaponSwingSounds2",
-    "dbdName": "WeaponSwingSounds2.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WeaponSwingSounds2.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spelleffectcamerashakes",
-    "displayName": "SpellEffectCameraShakes",
-    "dbdName": "SpellEffectCameraShakes.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellEffectCameraShakes.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "creaturetype",
-    "displayName": "CreatureType",
-    "dbdName": "CreatureType.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureType.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "itemsubclass",
     "displayName": "ItemSubClass",
     "dbdName": "ItemSubClass.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemSubClass.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "paperdollitemframe",
-    "displayName": "PaperDollItemFrame",
-    "dbdName": "PaperDollItemFrame.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PaperDollItemFrame.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellvisualanimname",
-    "displayName": "SpellVisualAnimName",
-    "dbdName": "SpellVisualAnimName.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualAnimName.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellchaineffects",
-    "displayName": "SpellChainEffects",
-    "dbdName": "SpellChainEffects.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellChainEffects.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellvisual",
-    "displayName": "SpellVisual",
-    "dbdName": "SpellVisual.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisual.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellduration",
-    "displayName": "SpellDuration",
-    "dbdName": "SpellDuration.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellDuration.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "emotestext",
-    "displayName": "EmotesText",
-    "dbdName": "EmotesText.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/EmotesText.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "locktype",
-    "displayName": "LockType",
-    "dbdName": "LockType.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LockType.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "charstartoutfit",
-    "displayName": "CharStartOutfit",
-    "dbdName": "CharStartOutfit.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharStartOutfit.dbd",
     "layoutHashes": []
   },
   {
@@ -175,220 +14,10 @@
     "layoutHashes": []
   },
   {
-    "name": "soundproviderpreferences",
-    "displayName": "SoundProviderPreferences",
-    "dbdName": "SoundProviderPreferences.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundProviderPreferences.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "tabardbackgroundtextures",
-    "displayName": "TabardBackgroundTextures",
-    "dbdName": "TabardBackgroundTextures.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TabardBackgroundTextures.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "soundcharactermacrolines",
-    "displayName": "SoundCharacterMacroLines",
-    "dbdName": "SoundCharacterMacroLines.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundCharacterMacroLines.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "questsort",
-    "displayName": "QuestSort",
-    "dbdName": "QuestSort.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/QuestSort.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spell",
-    "displayName": "Spell",
-    "dbdName": "Spell.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Spell.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "namesprofanity",
-    "displayName": "NamesProfanity",
-    "dbdName": "NamesProfanity.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/NamesProfanity.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "areatrigger",
-    "displayName": "AreaTrigger",
-    "dbdName": "AreaTrigger.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTrigger.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "languages",
-    "displayName": "Languages",
-    "dbdName": "Languages.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Languages.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellvisualeffectname",
-    "displayName": "SpellVisualEffectName",
-    "dbdName": "SpellVisualEffectName.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualEffectName.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "skillline",
-    "displayName": "SkillLine",
-    "dbdName": "SkillLine.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLine.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "worldmapcontinent",
-    "displayName": "WorldMapContinent",
-    "dbdName": "WorldMapContinent.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapContinent.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "soundwatertype",
-    "displayName": "SoundWaterType",
-    "dbdName": "SoundWaterType.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundWaterType.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "charvariations",
-    "displayName": "CharVariations",
-    "dbdName": "CharVariations.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharVariations.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "emotestextdata",
-    "displayName": "EmotesTextData",
-    "dbdName": "EmotesTextData.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/EmotesTextData.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellvisualprecasttransitions",
-    "displayName": "SpellVisualPrecastTransitions",
-    "dbdName": "SpellVisualPrecastTransitions.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualPrecastTransitions.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "groundeffectdoodad",
-    "displayName": "GroundEffectDoodad",
-    "dbdName": "GroundEffectDoodad.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/GroundEffectDoodad.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "cinematiccamera",
-    "displayName": "CinematicCamera",
-    "dbdName": "CinematicCamera.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CinematicCamera.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "soundentries",
-    "displayName": "SoundEntries",
-    "dbdName": "SoundEntries.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundEntries.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "gameobjectdisplayinfo",
-    "displayName": "GameObjectDisplayInfo",
-    "dbdName": "GameObjectDisplayInfo.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/GameObjectDisplayInfo.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "itemgroupsounds",
-    "displayName": "ItemGroupSounds",
-    "dbdName": "ItemGroupSounds.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemGroupSounds.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "map",
-    "displayName": "Map",
-    "dbdName": "Map.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "factiongroup",
-    "displayName": "FactionGroup",
-    "dbdName": "FactionGroup.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionGroup.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellshapeshiftform",
-    "displayName": "SpellShapeshiftForm",
-    "dbdName": "SpellShapeshiftForm.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellShapeshiftForm.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "taxipath",
-    "displayName": "TaxiPath",
-    "dbdName": "TaxiPath.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiPath.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "creaturedisplayinfoextra",
-    "displayName": "CreatureDisplayInfoExtra",
-    "dbdName": "CreatureDisplayInfoExtra.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureDisplayInfoExtra.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "creaturesounddata",
-    "displayName": "CreatureSoundData",
-    "dbdName": "CreatureSoundData.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureSoundData.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "factiontemplate",
-    "displayName": "FactionTemplate",
-    "dbdName": "FactionTemplate.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "charhairgeosets",
-    "displayName": "CharHairGeosets",
-    "dbdName": "CharHairGeosets.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharHairGeosets.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "material",
-    "displayName": "Material",
-    "dbdName": "Material.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Material.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "soundsamplepreferences",
-    "displayName": "SoundSamplePreferences",
-    "dbdName": "SoundSamplePreferences.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundSamplePreferences.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "footstepterrainlookup",
-    "displayName": "FootstepTerrainLookup",
-    "dbdName": "FootstepTerrainLookup.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FootstepTerrainLookup.dbd",
+    "name": "charbaseinfo",
+    "displayName": "CharBaseInfo",
+    "dbdName": "CharBaseInfo.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharBaseInfo.dbd",
     "layoutHashes": []
   },
   {
@@ -399,24 +28,24 @@
     "layoutHashes": []
   },
   {
-    "name": "itemclass",
-    "displayName": "ItemClass",
-    "dbdName": "ItemClass.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemClass.dbd",
+    "name": "videohardware",
+    "displayName": "VideoHardware",
+    "dbdName": "VideoHardware.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/VideoHardware.dbd",
     "layoutHashes": []
   },
   {
-    "name": "areatable",
-    "displayName": "AreaTable",
-    "dbdName": "AreaTable.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTable.dbd",
+    "name": "terraintypesounds",
+    "displayName": "TerrainTypeSounds",
+    "dbdName": "TerrainTypeSounds.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TerrainTypeSounds.dbd",
     "layoutHashes": []
   },
   {
-    "name": "vocaluisounds",
-    "displayName": "VocalUISounds",
-    "dbdName": "VocalUISounds.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/VocalUISounds.dbd",
+    "name": "itemdisplayinfo",
+    "displayName": "ItemDisplayInfo",
+    "dbdName": "ItemDisplayInfo.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemDisplayInfo.dbd",
     "layoutHashes": []
   },
   {
@@ -427,24 +56,66 @@
     "layoutHashes": []
   },
   {
-    "name": "bankbagslotprices",
-    "displayName": "BankBagSlotPrices",
-    "dbdName": "BankBagSlotPrices.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BankBagSlotPrices.dbd",
+    "name": "faction",
+    "displayName": "Faction",
+    "dbdName": "Faction.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Faction.dbd",
     "layoutHashes": []
   },
   {
-    "name": "chrraces",
-    "displayName": "ChrRaces",
-    "dbdName": "ChrRaces.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ChrRaces.dbd",
+    "name": "material",
+    "displayName": "Material",
+    "dbdName": "Material.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Material.dbd",
     "layoutHashes": []
   },
   {
-    "name": "unitbloodlevels",
-    "displayName": "UnitBloodLevels",
-    "dbdName": "UnitBloodLevels.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/UnitBloodLevels.dbd",
+    "name": "taxipathnode",
+    "displayName": "TaxiPathNode",
+    "dbdName": "TaxiPathNode.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiPathNode.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "pagetextmaterial",
+    "displayName": "PageTextMaterial",
+    "dbdName": "PageTextMaterial.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PageTextMaterial.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellradius",
+    "displayName": "SpellRadius",
+    "dbdName": "SpellRadius.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellRadius.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spell",
+    "displayName": "Spell",
+    "dbdName": "Spell.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Spell.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "sheathesoundlookups",
+    "displayName": "SheatheSoundLookups",
+    "dbdName": "SheatheSoundLookups.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SheatheSoundLookups.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "footstepterrainlookup",
+    "displayName": "FootstepTerrainLookup",
+    "dbdName": "FootstepTerrainLookup.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FootstepTerrainLookup.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "namesreserved",
+    "displayName": "NamesReserved",
+    "dbdName": "NamesReserved.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/NamesReserved.dbd",
     "layoutHashes": []
   },
   {
@@ -455,24 +126,10 @@
     "layoutHashes": []
   },
   {
-    "name": "wmoareatable",
-    "displayName": "WMOAreaTable",
-    "dbdName": "WMOAreaTable.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WMOAreaTable.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "languagewords",
-    "displayName": "LanguageWords",
-    "dbdName": "LanguageWords.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LanguageWords.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "questinfo",
-    "displayName": "QuestInfo",
-    "dbdName": "QuestInfo.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/QuestInfo.dbd",
+    "name": "emotestextdata",
+    "displayName": "EmotesTextData",
+    "dbdName": "EmotesTextData.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/EmotesTextData.dbd",
     "layoutHashes": []
   },
   {
@@ -483,66 +140,45 @@
     "layoutHashes": []
   },
   {
-    "name": "creaturefamily",
-    "displayName": "CreatureFamily",
-    "dbdName": "CreatureFamily.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureFamily.dbd",
+    "name": "footprinttextures",
+    "displayName": "FootprintTextures",
+    "dbdName": "FootprintTextures.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FootprintTextures.dbd",
     "layoutHashes": []
   },
   {
-    "name": "skilllineability",
-    "displayName": "SkillLineAbility",
-    "dbdName": "SkillLineAbility.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLineAbility.dbd",
+    "name": "skillline",
+    "displayName": "SkillLine",
+    "dbdName": "SkillLine.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLine.dbd",
     "layoutHashes": []
   },
   {
-    "name": "spellfocusobject",
-    "displayName": "SpellFocusObject",
-    "dbdName": "SpellFocusObject.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellFocusObject.dbd",
+    "name": "spelleffectcamerashakes",
+    "displayName": "SpellEffectCameraShakes",
+    "dbdName": "SpellEffectCameraShakes.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellEffectCameraShakes.dbd",
     "layoutHashes": []
   },
   {
-    "name": "groundeffecttexture",
-    "displayName": "GroundEffectTexture",
-    "dbdName": "GroundEffectTexture.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/GroundEffectTexture.dbd",
+    "name": "factiontemplate",
+    "displayName": "FactionTemplate",
+    "dbdName": "FactionTemplate.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
     "layoutHashes": []
   },
   {
-    "name": "deaththudlookups",
-    "displayName": "DeathThudLookups",
-    "dbdName": "DeathThudLookups.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/DeathThudLookups.dbd",
+    "name": "creaturemodeldata",
+    "displayName": "CreatureModelData",
+    "dbdName": "CreatureModelData.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureModelData.dbd",
     "layoutHashes": []
   },
   {
-    "name": "spelleffectnames",
-    "displayName": "SpellEffectNames",
-    "dbdName": "SpellEffectNames.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellEffectNames.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "faction",
-    "displayName": "Faction",
-    "dbdName": "Faction.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Faction.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellrange",
-    "displayName": "SpellRange",
-    "dbdName": "SpellRange.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellRange.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "attackanimkits",
-    "displayName": "AttackAnimKits",
-    "dbdName": "AttackAnimKits.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimKits.dbd",
+    "name": "spellvisualeffectname",
+    "displayName": "SpellVisualEffectName",
+    "dbdName": "SpellVisualEffectName.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualEffectName.dbd",
     "layoutHashes": []
   },
   {
@@ -553,10 +189,402 @@
     "layoutHashes": []
   },
   {
-    "name": "sheathesoundlookups",
-    "displayName": "SheatheSoundLookups",
-    "dbdName": "SheatheSoundLookups.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SheatheSoundLookups.dbd",
+    "name": "tabardemblemtextures",
+    "displayName": "TabardEmblemTextures",
+    "dbdName": "TabardEmblemTextures.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TabardEmblemTextures.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "groundeffecttexture",
+    "displayName": "GroundEffectTexture",
+    "dbdName": "GroundEffectTexture.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/GroundEffectTexture.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "tabardbackgroundtextures",
+    "displayName": "TabardBackgroundTextures",
+    "dbdName": "TabardBackgroundTextures.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TabardBackgroundTextures.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "npcsounds",
+    "displayName": "NPCSounds",
+    "dbdName": "NPCSounds.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/NPCSounds.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "charvariations",
+    "displayName": "CharVariations",
+    "dbdName": "CharVariations.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharVariations.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellvisual",
+    "displayName": "SpellVisual",
+    "dbdName": "SpellVisual.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisual.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "languagewords",
+    "displayName": "LanguageWords",
+    "dbdName": "LanguageWords.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LanguageWords.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "charactercreatecameras",
+    "displayName": "CharacterCreateCameras",
+    "dbdName": "CharacterCreateCameras.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharacterCreateCameras.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "areatable",
+    "displayName": "AreaTable",
+    "dbdName": "AreaTable.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTable.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "languages",
+    "displayName": "Languages",
+    "dbdName": "Languages.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Languages.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "emotes",
+    "displayName": "Emotes",
+    "dbdName": "Emotes.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Emotes.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "zonemusic",
+    "displayName": "ZoneMusic",
+    "dbdName": "ZoneMusic.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ZoneMusic.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "characterfacialhairstyles",
+    "displayName": "CharacterFacialHairStyles",
+    "dbdName": "CharacterFacialHairStyles.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharacterFacialHairStyles.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellshapeshiftform",
+    "displayName": "SpellShapeshiftForm",
+    "dbdName": "SpellShapeshiftForm.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellShapeshiftForm.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "questsort",
+    "displayName": "QuestSort",
+    "dbdName": "QuestSort.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/QuestSort.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "creaturefamily",
+    "displayName": "CreatureFamily",
+    "dbdName": "CreatureFamily.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureFamily.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "charstartoutfit",
+    "displayName": "CharStartOutfit",
+    "dbdName": "CharStartOutfit.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharStartOutfit.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "namesprofanity",
+    "displayName": "NamesProfanity",
+    "dbdName": "NamesProfanity.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/NamesProfanity.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellrange",
+    "displayName": "SpellRange",
+    "dbdName": "SpellRange.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellRange.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "worldmaparea",
+    "displayName": "WorldMapArea",
+    "dbdName": "WorldMapArea.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapArea.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "weaponswingsounds2",
+    "displayName": "WeaponSwingSounds2",
+    "dbdName": "WeaponSwingSounds2.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WeaponSwingSounds2.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "worldmapcontinent",
+    "displayName": "WorldMapContinent",
+    "dbdName": "WorldMapContinent.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapContinent.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "areatrigger",
+    "displayName": "AreaTrigger",
+    "dbdName": "AreaTrigger.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTrigger.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "factiongroup",
+    "displayName": "FactionGroup",
+    "dbdName": "FactionGroup.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionGroup.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "taxinodes",
+    "displayName": "TaxiNodes",
+    "dbdName": "TaxiNodes.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiNodes.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "soundwatertype",
+    "displayName": "SoundWaterType",
+    "dbdName": "SoundWaterType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundWaterType.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "creaturetype",
+    "displayName": "CreatureType",
+    "dbdName": "CreatureType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureType.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellduration",
+    "displayName": "SpellDuration",
+    "dbdName": "SpellDuration.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellDuration.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellvisualprecasttransitions",
+    "displayName": "SpellVisualPrecastTransitions",
+    "dbdName": "SpellVisualPrecastTransitions.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualPrecastTransitions.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellauranames",
+    "displayName": "SpellAuraNames",
+    "dbdName": "SpellAuraNames.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraNames.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "creaturedisplayinfo",
+    "displayName": "CreatureDisplayInfo",
+    "dbdName": "CreatureDisplayInfo.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureDisplayInfo.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "soundsamplepreferences",
+    "displayName": "SoundSamplePreferences",
+    "dbdName": "SoundSamplePreferences.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundSamplePreferences.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellcasttimes",
+    "displayName": "SpellCastTimes",
+    "dbdName": "SpellCastTimes.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellCastTimes.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "helmetgeosetvisdata",
+    "displayName": "HelmetGeosetVisData",
+    "dbdName": "HelmetGeosetVisData.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/HelmetGeosetVisData.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "weaponimpactsounds",
+    "displayName": "WeaponImpactSounds",
+    "dbdName": "WeaponImpactSounds.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WeaponImpactSounds.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "worldsafelocs",
+    "displayName": "WorldSafeLocs",
+    "dbdName": "WorldSafeLocs.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldSafeLocs.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "chrraces",
+    "displayName": "ChrRaces",
+    "dbdName": "ChrRaces.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ChrRaces.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "terraintype",
+    "displayName": "TerrainType",
+    "dbdName": "TerrainType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TerrainType.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "groundeffectdoodad",
+    "displayName": "GroundEffectDoodad",
+    "dbdName": "GroundEffectDoodad.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/GroundEffectDoodad.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "cinematicsequences",
+    "displayName": "CinematicSequences",
+    "dbdName": "CinematicSequences.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CinematicSequences.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "itemgroupsounds",
+    "displayName": "ItemGroupSounds",
+    "dbdName": "ItemGroupSounds.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemGroupSounds.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "paperdollitemframe",
+    "displayName": "PaperDollItemFrame",
+    "dbdName": "PaperDollItemFrame.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PaperDollItemFrame.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "deaththudlookups",
+    "displayName": "DeathThudLookups",
+    "dbdName": "DeathThudLookups.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/DeathThudLookups.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "map",
+    "displayName": "Map",
+    "dbdName": "Map.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "attackanimtypes",
+    "displayName": "AttackAnimTypes",
+    "dbdName": "AttackAnimTypes.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimTypes.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "stringlookups",
+    "displayName": "StringLookups",
+    "dbdName": "StringLookups.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/StringLookups.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "questinfo",
+    "displayName": "QuestInfo",
+    "dbdName": "QuestInfo.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/QuestInfo.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "skilllineability",
+    "displayName": "SkillLineAbility",
+    "dbdName": "SkillLineAbility.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLineAbility.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellchaineffects",
+    "displayName": "SpellChainEffects",
+    "dbdName": "SpellChainEffects.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellChainEffects.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "soundproviderpreferences",
+    "displayName": "SoundProviderPreferences",
+    "dbdName": "SoundProviderPreferences.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundProviderPreferences.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "wmoareatable",
+    "displayName": "WMOAreaTable",
+    "dbdName": "WMOAreaTable.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WMOAreaTable.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "creaturedisplayinfoextra",
+    "displayName": "CreatureDisplayInfoExtra",
+    "dbdName": "CreatureDisplayInfoExtra.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureDisplayInfoExtra.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellicon",
+    "displayName": "SpellIcon",
+    "dbdName": "SpellIcon.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellIcon.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "taxipath",
+    "displayName": "TaxiPath",
+    "dbdName": "TaxiPath.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TaxiPath.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "creaturesounddata",
+    "displayName": "CreatureSoundData",
+    "dbdName": "CreatureSoundData.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureSoundData.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spellvisualanimname",
+    "displayName": "SpellVisualAnimName",
+    "dbdName": "SpellVisualAnimName.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualAnimName.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "chrclasses",
+    "displayName": "ChrClasses",
+    "dbdName": "ChrClasses.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ChrClasses.dbd",
     "layoutHashes": []
   },
   {
@@ -574,10 +602,17 @@
     "layoutHashes": []
   },
   {
-    "name": "footprinttextures",
-    "displayName": "FootprintTextures",
-    "dbdName": "FootprintTextures.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FootprintTextures.dbd",
+    "name": "areamidiambiences",
+    "displayName": "AreaMIDIAmbiences",
+    "dbdName": "AreaMIDIAmbiences.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaMIDIAmbiences.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "gameobjectdisplayinfo",
+    "displayName": "GameObjectDisplayInfo",
+    "dbdName": "GameObjectDisplayInfo.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/GameObjectDisplayInfo.dbd",
     "layoutHashes": []
   },
   {
@@ -588,31 +623,31 @@
     "layoutHashes": []
   },
   {
-    "name": "worldmaparea",
-    "displayName": "WorldMapArea",
-    "dbdName": "WorldMapArea.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapArea.dbd",
+    "name": "uisoundlookups",
+    "displayName": "UISoundLookups",
+    "dbdName": "UISoundLookups.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/UISoundLookups.dbd",
     "layoutHashes": []
   },
   {
-    "name": "spellvisualkit",
-    "displayName": "SpellVisualKit",
-    "dbdName": "SpellVisualKit.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualKit.dbd",
+    "name": "itemclass",
+    "displayName": "ItemClass",
+    "dbdName": "ItemClass.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemClass.dbd",
     "layoutHashes": []
   },
   {
-    "name": "terraintype",
-    "displayName": "TerrainType",
-    "dbdName": "TerrainType.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TerrainType.dbd",
+    "name": "soundcharactermacrolines",
+    "displayName": "SoundCharacterMacroLines",
+    "dbdName": "SoundCharacterMacroLines.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundCharacterMacroLines.dbd",
     "layoutHashes": []
   },
   {
-    "name": "helmetgeosetvisdata",
-    "displayName": "HelmetGeosetVisData",
-    "dbdName": "HelmetGeosetVisData.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/HelmetGeosetVisData.dbd",
+    "name": "itemvisualeffects",
+    "displayName": "ItemVisualEffects",
+    "dbdName": "ItemVisualEffects.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ItemVisualEffects.dbd",
     "layoutHashes": []
   },
   {
@@ -623,59 +658,87 @@
     "layoutHashes": []
   },
   {
-    "name": "spellradius",
-    "displayName": "SpellRadius",
-    "dbdName": "SpellRadius.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellRadius.dbd",
+    "name": "locktype",
+    "displayName": "LockType",
+    "dbdName": "LockType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LockType.dbd",
     "layoutHashes": []
   },
   {
-    "name": "uisoundlookups",
-    "displayName": "UISoundLookups",
-    "dbdName": "UISoundLookups.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/UISoundLookups.dbd",
+    "name": "vocaluisounds",
+    "displayName": "VocalUISounds",
+    "dbdName": "VocalUISounds.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/VocalUISounds.dbd",
     "layoutHashes": []
   },
   {
-    "name": "worldsafelocs",
-    "displayName": "WorldSafeLocs",
-    "dbdName": "WorldSafeLocs.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldSafeLocs.dbd",
+    "name": "soundentries",
+    "displayName": "SoundEntries",
+    "dbdName": "SoundEntries.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundEntries.dbd",
     "layoutHashes": []
   },
   {
-    "name": "creaturemodeldata",
-    "displayName": "CreatureModelData",
-    "dbdName": "CreatureModelData.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureModelData.dbd",
+    "name": "spellfocusobject",
+    "displayName": "SpellFocusObject",
+    "dbdName": "SpellFocusObject.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellFocusObject.dbd",
     "layoutHashes": []
   },
   {
-    "name": "zonemusic",
-    "displayName": "ZoneMusic",
-    "dbdName": "ZoneMusic.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ZoneMusic.dbd",
+    "name": "cinematiccamera",
+    "displayName": "CinematicCamera",
+    "dbdName": "CinematicCamera.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CinematicCamera.dbd",
     "layoutHashes": []
   },
   {
-    "name": "cinematicsequences",
-    "displayName": "CinematicSequences",
-    "dbdName": "CinematicSequences.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CinematicSequences.dbd",
+    "name": "spellvisualkit",
+    "displayName": "SpellVisualKit",
+    "dbdName": "SpellVisualKit.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualKit.dbd",
     "layoutHashes": []
   },
   {
-    "name": "videohardware",
-    "displayName": "VideoHardware",
-    "dbdName": "VideoHardware.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/VideoHardware.dbd",
+    "name": "bankbagslotprices",
+    "displayName": "BankBagSlotPrices",
+    "dbdName": "BankBagSlotPrices.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BankBagSlotPrices.dbd",
     "layoutHashes": []
   },
   {
-    "name": "namesreserved",
-    "displayName": "NamesReserved",
-    "dbdName": "NamesReserved.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/NamesReserved.dbd",
+    "name": "charhairgeosets",
+    "displayName": "CharHairGeosets",
+    "dbdName": "CharHairGeosets.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharHairGeosets.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "unitbloodlevels",
+    "displayName": "UnitBloodLevels",
+    "dbdName": "UnitBloodLevels.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/UnitBloodLevels.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "attackanimkits",
+    "displayName": "AttackAnimKits",
+    "dbdName": "AttackAnimKits.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimKits.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spelleffectnames",
+    "displayName": "SpellEffectNames",
+    "dbdName": "SpellEffectNames.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellEffectNames.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "emotestext",
+    "displayName": "EmotesText",
+    "dbdName": "EmotesText.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/EmotesText.dbd",
     "layoutHashes": []
   },
   {
@@ -683,69 +746,6 @@
     "displayName": "SpellItemEnchantment",
     "dbdName": "SpellItemEnchantment.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellItemEnchantment.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellcasttimes",
-    "displayName": "SpellCastTimes",
-    "dbdName": "SpellCastTimes.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellCastTimes.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "npcsounds",
-    "displayName": "NPCSounds",
-    "dbdName": "NPCSounds.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/NPCSounds.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "chrclasses",
-    "displayName": "ChrClasses",
-    "dbdName": "ChrClasses.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ChrClasses.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "emotes",
-    "displayName": "Emotes",
-    "dbdName": "Emotes.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Emotes.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "terraintypesounds",
-    "displayName": "TerrainTypeSounds",
-    "dbdName": "TerrainTypeSounds.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TerrainTypeSounds.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "pagetextmaterial",
-    "displayName": "PageTextMaterial",
-    "dbdName": "PageTextMaterial.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PageTextMaterial.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "areamidiambiences",
-    "displayName": "AreaMIDIAmbiences",
-    "dbdName": "AreaMIDIAmbiences.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaMIDIAmbiences.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "charactercreatecameras",
-    "displayName": "CharacterCreateCameras",
-    "dbdName": "CharacterCreateCameras.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharacterCreateCameras.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "stringlookups",
-    "displayName": "StringLookups",
-    "dbdName": "StringLookups.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/StringLookups.dbd",
     "layoutHashes": []
   }
 ]

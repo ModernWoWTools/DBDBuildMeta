@@ -1,12 +1,5 @@
 [
   {
-    "name": "worldmaptransforms",
-    "displayName": "WorldMapTransforms",
-    "dbdName": "WorldMapTransforms.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapTransforms.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "achievement_criteria",
     "displayName": "Achievement_Criteria",
     "dbdName": "Achievement_Criteria.dbd",
@@ -18,6 +11,13 @@
     "displayName": "CreatureModelData",
     "dbdName": "CreatureModelData.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CreatureModelData.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "worldmaptransforms",
+    "displayName": "WorldMapTransforms",
+    "dbdName": "WorldMapTransforms.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapTransforms.dbd",
     "layoutHashes": []
   }
 ]
