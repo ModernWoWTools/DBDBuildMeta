@@ -1,9 +1,9 @@
 [
   {
-    "name": "mountcapability",
-    "displayName": "MountCapability",
-    "dbdName": "MountCapability.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/MountCapability.dbd",
+    "name": "researchfield",
+    "displayName": "ResearchField",
+    "dbdName": "ResearchField.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ResearchField.dbd",
     "layoutHashes": []
   },
   {
@@ -14,10 +14,10 @@
     "layoutHashes": []
   },
   {
-    "name": "researchfield",
-    "displayName": "ResearchField",
-    "dbdName": "ResearchField.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ResearchField.dbd",
+    "name": "mountcapability",
+    "displayName": "MountCapability",
+    "dbdName": "MountCapability.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/MountCapability.dbd",
     "layoutHashes": []
   }
 ]
