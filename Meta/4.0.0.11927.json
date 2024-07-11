@@ -7,17 +7,17 @@
     "layoutHashes": []
   },
   {
-    "name": "liquidtype",
-    "displayName": "LiquidType",
-    "dbdName": "LiquidType.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LiquidType.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "currencytypes",
     "displayName": "CurrencyTypes",
     "dbdName": "CurrencyTypes.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CurrencyTypes.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "liquidtype",
+    "displayName": "LiquidType",
+    "dbdName": "LiquidType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LiquidType.dbd",
     "layoutHashes": []
   }
 ]

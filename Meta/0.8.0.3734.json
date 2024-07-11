@@ -1,9 +1,9 @@
 [
   {
-    "name": "map",
-    "displayName": "Map",
-    "dbdName": "Map.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
+    "name": "talenttab",
+    "displayName": "TalentTab",
+    "dbdName": "TalentTab.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TalentTab.dbd",
     "layoutHashes": []
   },
   {
@@ -21,10 +21,10 @@
     "layoutHashes": []
   },
   {
-    "name": "talenttab",
-    "displayName": "TalentTab",
-    "dbdName": "TalentTab.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TalentTab.dbd",
+    "name": "map",
+    "displayName": "Map",
+    "dbdName": "Map.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
     "layoutHashes": []
   }
 ]
