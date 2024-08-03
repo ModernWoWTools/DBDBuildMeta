@@ -1,12 +1,5 @@
 [
   {
-    "name": "playercondition",
-    "displayName": "PlayerCondition",
-    "dbdName": "PlayerCondition.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PlayerCondition.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "soundentries",
     "displayName": "SoundEntries",
     "dbdName": "SoundEntries.dbd",
@@ -25,6 +18,13 @@
     "displayName": "SkillLineAbility",
     "dbdName": "SkillLineAbility.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLineAbility.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "playercondition",
+    "displayName": "PlayerCondition",
+    "dbdName": "PlayerCondition.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PlayerCondition.dbd",
     "layoutHashes": []
   }
 ]
