@@ -1,9 +1,9 @@
 [
   {
-    "name": "spelleffectnames",
-    "displayName": "SpellEffectNames",
-    "dbdName": "SpellEffectNames.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellEffectNames.dbd",
+    "name": "uisoundlookups",
+    "displayName": "UISoundLookups",
+    "dbdName": "UISoundLookups.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/UISoundLookups.dbd",
     "layoutHashes": []
   },
   {
@@ -14,27 +14,6 @@
     "layoutHashes": []
   },
   {
-    "name": "soundcharactermacrolines",
-    "displayName": "SoundCharacterMacroLines",
-    "dbdName": "SoundCharacterMacroLines.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundCharacterMacroLines.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "uisoundlookups",
-    "displayName": "UISoundLookups",
-    "dbdName": "UISoundLookups.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/UISoundLookups.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "petloyalty",
-    "displayName": "PetLoyalty",
-    "dbdName": "PetLoyalty.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PetLoyalty.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "charvariations",
     "displayName": "CharVariations",
     "dbdName": "CharVariations.dbd",
@@ -42,17 +21,10 @@
     "layoutHashes": []
   },
   {
-    "name": "sheathesoundlookups",
-    "displayName": "SheatheSoundLookups",
-    "dbdName": "SheatheSoundLookups.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SheatheSoundLookups.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "attackanimtypes",
-    "displayName": "AttackAnimTypes",
-    "dbdName": "AttackAnimTypes.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimTypes.dbd",
+    "name": "soundcharactermacrolines",
+    "displayName": "SoundCharacterMacroLines",
+    "dbdName": "SoundCharacterMacroLines.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundCharacterMacroLines.dbd",
     "layoutHashes": []
   },
   {
@@ -67,6 +39,34 @@
     "displayName": "SpellAuraNames",
     "dbdName": "SpellAuraNames.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraNames.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spelleffectnames",
+    "displayName": "SpellEffectNames",
+    "dbdName": "SpellEffectNames.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellEffectNames.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "petloyalty",
+    "displayName": "PetLoyalty",
+    "dbdName": "PetLoyalty.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PetLoyalty.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "sheathesoundlookups",
+    "displayName": "SheatheSoundLookups",
+    "dbdName": "SheatheSoundLookups.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SheatheSoundLookups.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "attackanimtypes",
+    "displayName": "AttackAnimTypes",
+    "dbdName": "AttackAnimTypes.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimTypes.dbd",
     "layoutHashes": []
   }
 ]
