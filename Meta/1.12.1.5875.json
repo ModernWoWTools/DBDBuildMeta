@@ -1,9 +1,9 @@
 [
   {
-    "name": "spelleffectnames",
-    "displayName": "SpellEffectNames",
-    "dbdName": "SpellEffectNames.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellEffectNames.dbd",
+    "name": "sheathesoundlookups",
+    "displayName": "SheatheSoundLookups",
+    "dbdName": "SheatheSoundLookups.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SheatheSoundLookups.dbd",
     "layoutHashes": []
   },
   {
@@ -14,6 +14,20 @@
     "layoutHashes": []
   },
   {
+    "name": "spellauranames",
+    "displayName": "SpellAuraNames",
+    "dbdName": "SpellAuraNames.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraNames.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "soundcharactermacrolines",
+    "displayName": "SoundCharacterMacroLines",
+    "dbdName": "SoundCharacterMacroLines.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundCharacterMacroLines.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "map",
     "displayName": "Map",
     "dbdName": "Map.dbd",
@@ -21,10 +35,24 @@
     "layoutHashes": []
   },
   {
-    "name": "sheathesoundlookups",
-    "displayName": "SheatheSoundLookups",
-    "dbdName": "SheatheSoundLookups.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SheatheSoundLookups.dbd",
+    "name": "charvariations",
+    "displayName": "CharVariations",
+    "dbdName": "CharVariations.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharVariations.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spelleffectnames",
+    "displayName": "SpellEffectNames",
+    "dbdName": "SpellEffectNames.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellEffectNames.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "attackanimtypes",
+    "displayName": "AttackAnimTypes",
+    "dbdName": "AttackAnimTypes.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimTypes.dbd",
     "layoutHashes": []
   },
   {
@@ -39,34 +67,6 @@
     "displayName": "PetLoyalty",
     "dbdName": "PetLoyalty.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PetLoyalty.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "attackanimtypes",
-    "displayName": "AttackAnimTypes",
-    "dbdName": "AttackAnimTypes.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimTypes.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spellauranames",
-    "displayName": "SpellAuraNames",
-    "dbdName": "SpellAuraNames.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraNames.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "charvariations",
-    "displayName": "CharVariations",
-    "dbdName": "CharVariations.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharVariations.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "soundcharactermacrolines",
-    "displayName": "SoundCharacterMacroLines",
-    "dbdName": "SoundCharacterMacroLines.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundCharacterMacroLines.dbd",
     "layoutHashes": []
   }
 ]
