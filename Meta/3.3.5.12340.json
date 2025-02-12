@@ -1,5 +1,12 @@
 [
   {
+    "name": "attackanimkits",
+    "displayName": "AttackAnimKits",
+    "dbdName": "AttackAnimKits.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimKits.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "soundwatertype",
     "displayName": "SoundWaterType",
     "dbdName": "SoundWaterType.dbd",
@@ -11,13 +18,6 @@
     "displayName": "SheatheSoundLookups",
     "dbdName": "SheatheSoundLookups.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SheatheSoundLookups.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "attackanimkits",
-    "displayName": "AttackAnimKits",
-    "dbdName": "AttackAnimKits.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimKits.dbd",
     "layoutHashes": []
   },
   {

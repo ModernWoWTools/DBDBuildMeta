@@ -7,17 +7,17 @@
     "layoutHashes": []
   },
   {
-    "name": "scenario",
-    "displayName": "Scenario",
-    "dbdName": "Scenario.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Scenario.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "battlepetabilityeffect",
     "displayName": "BattlePetAbilityEffect",
     "dbdName": "BattlePetAbilityEffect.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbilityEffect.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "scenario",
+    "displayName": "Scenario",
+    "dbdName": "Scenario.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Scenario.dbd",
     "layoutHashes": []
   }
 ]
