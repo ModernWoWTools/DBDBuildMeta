@@ -1,30 +1,9 @@
 [
   {
-    "name": "worldelapsedtimer",
-    "displayName": "WorldElapsedTimer",
-    "dbdName": "WorldElapsedTimer.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldElapsedTimer.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "scenescript",
-    "displayName": "SceneScript",
-    "dbdName": "SceneScript.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScript.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "lfgdungeons",
     "displayName": "LFGDungeons",
     "dbdName": "LFGDungeons.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LFGDungeons.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "scenescriptpackagemember",
-    "displayName": "SceneScriptPackageMember",
-    "dbdName": "SceneScriptPackageMember.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScriptPackageMember.dbd",
     "layoutHashes": []
   },
   {
@@ -35,10 +14,10 @@
     "layoutHashes": []
   },
   {
-    "name": "battlepetspecies",
-    "displayName": "BattlePetSpecies",
-    "dbdName": "BattlePetSpecies.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetSpecies.dbd",
+    "name": "scenescript",
+    "displayName": "SceneScript",
+    "dbdName": "SceneScript.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScript.dbd",
     "layoutHashes": []
   },
   {
@@ -46,6 +25,27 @@
     "displayName": "BattlePetAbility",
     "dbdName": "BattlePetAbility.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbility.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "battlepetspecies",
+    "displayName": "BattlePetSpecies",
+    "dbdName": "BattlePetSpecies.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetSpecies.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "worldelapsedtimer",
+    "displayName": "WorldElapsedTimer",
+    "dbdName": "WorldElapsedTimer.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldElapsedTimer.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "scenescriptpackagemember",
+    "displayName": "SceneScriptPackageMember",
+    "dbdName": "SceneScriptPackageMember.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScriptPackageMember.dbd",
     "layoutHashes": []
   }
 ]
