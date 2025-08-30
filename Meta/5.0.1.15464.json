@@ -1,16 +1,16 @@
 [
   {
-    "name": "lfgdungeons",
-    "displayName": "LFGDungeons",
-    "dbdName": "LFGDungeons.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LFGDungeons.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "spellreagents",
     "displayName": "SpellReagents",
     "dbdName": "SpellReagents.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellReagents.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "lfgdungeons",
+    "displayName": "LFGDungeons",
+    "dbdName": "LFGDungeons.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LFGDungeons.dbd",
     "layoutHashes": []
   },
   {
@@ -28,6 +28,13 @@
     "layoutHashes": []
   },
   {
+    "name": "scenescriptpackagemember",
+    "displayName": "SceneScriptPackageMember",
+    "dbdName": "SceneScriptPackageMember.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScriptPackageMember.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "battlepetspecies",
     "displayName": "BattlePetSpecies",
     "dbdName": "BattlePetSpecies.dbd",
@@ -39,13 +46,6 @@
     "displayName": "WorldElapsedTimer",
     "dbdName": "WorldElapsedTimer.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldElapsedTimer.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "scenescriptpackagemember",
-    "displayName": "SceneScriptPackageMember",
-    "dbdName": "SceneScriptPackageMember.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScriptPackageMember.dbd",
     "layoutHashes": []
   }
 ]

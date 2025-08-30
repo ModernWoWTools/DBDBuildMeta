@@ -1,23 +1,9 @@
 [
   {
-    "name": "chartexturevariationsv2",
-    "displayName": "CharTextureVariationsV2",
-    "dbdName": "CharTextureVariationsV2.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharTextureVariationsV2.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "worldmapoverlay",
-    "displayName": "WorldMapOverlay",
-    "dbdName": "WorldMapOverlay.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapOverlay.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "areatable",
-    "displayName": "AreaTable",
-    "dbdName": "AreaTable.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTable.dbd",
+    "name": "spell",
+    "displayName": "Spell",
+    "dbdName": "Spell.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Spell.dbd",
     "layoutHashes": []
   },
   {
@@ -28,10 +14,24 @@
     "layoutHashes": []
   },
   {
-    "name": "spell",
-    "displayName": "Spell",
-    "dbdName": "Spell.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Spell.dbd",
+    "name": "areatable",
+    "displayName": "AreaTable",
+    "dbdName": "AreaTable.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTable.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "worldmapoverlay",
+    "displayName": "WorldMapOverlay",
+    "dbdName": "WorldMapOverlay.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapOverlay.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "chartexturevariationsv2",
+    "displayName": "CharTextureVariationsV2",
+    "dbdName": "CharTextureVariationsV2.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharTextureVariationsV2.dbd",
     "layoutHashes": []
   }
 ]
