@@ -55,7 +55,9 @@
     "dbdName": "UiModelSceneCamera.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/UiModelSceneCamera.dbd",
     "layoutHashes": [
-      "C58AA5EC"
+      "C58AA5EC",
+      "D61C5690",
+      "BBC7604C"
     ]
   },
   {
@@ -297,7 +299,9 @@
     "dbdName": "PvpScalingEffect.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PvpScalingEffect.dbd",
     "layoutHashes": [
-      "52121A41"
+      "52121A41",
+      "473E3F4A",
+      "E697246D"
     ]
   },
   {
@@ -1459,7 +1463,8 @@
     "dbdName": "FileDataComplete.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FileDataComplete.dbd",
     "layoutHashes": [
-      "EEA700D9"
+      "EEA700D9",
+      "4D4FD869"
     ]
   },
   {
@@ -4617,7 +4622,9 @@
     "layoutHashes": [
       "96663ABF",
       "F6F6B04B",
-      "887BEAEA"
+      "887BEAEA",
+      "3904DB9E",
+      "35D5C533"
     ]
   },
   {
@@ -5829,7 +5836,11 @@
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Achievement_Category.dbd",
     "layoutHashes": [
       "ED226BC9",
-      "3D6E4A81"
+      "3D6E4A81",
+      "1397F425",
+      "462AC061",
+      "CDFE144A",
+      "5F7AFA62"
     ]
   },
   {

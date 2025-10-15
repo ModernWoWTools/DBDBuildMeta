@@ -5,7 +5,8 @@
     "dbdName": "FileDataComplete.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FileDataComplete.dbd",
     "layoutHashes": [
-      "EEA700D9"
+      "EEA700D9",
+      "4D4FD869"
     ]
   }
 ]
