@@ -7,17 +7,10 @@
     "layoutHashes": []
   },
   {
-    "name": "spellreagents",
-    "displayName": "SpellReagents",
-    "dbdName": "SpellReagents.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellReagents.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "lfgdungeons",
-    "displayName": "LFGDungeons",
-    "dbdName": "LFGDungeons.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LFGDungeons.dbd",
+    "name": "battlepetability",
+    "displayName": "BattlePetAbility",
+    "dbdName": "BattlePetAbility.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbility.dbd",
     "layoutHashes": []
   },
   {
@@ -42,10 +35,17 @@
     "layoutHashes": []
   },
   {
-    "name": "battlepetability",
-    "displayName": "BattlePetAbility",
-    "dbdName": "BattlePetAbility.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbility.dbd",
+    "name": "spellreagents",
+    "displayName": "SpellReagents",
+    "dbdName": "SpellReagents.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellReagents.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "lfgdungeons",
+    "displayName": "LFGDungeons",
+    "dbdName": "LFGDungeons.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LFGDungeons.dbd",
     "layoutHashes": []
   }
 ]
