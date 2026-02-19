@@ -1,26 +1,5 @@
 [
   {
-    "name": "factiontemplate",
-    "displayName": "FactionTemplate",
-    "dbdName": "FactionTemplate.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "cfg_configs",
-    "displayName": "Cfg_Configs",
-    "dbdName": "Cfg_Configs.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Cfg_Configs.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "spelldispeltype",
-    "displayName": "SpellDispelType",
-    "dbdName": "SpellDispelType.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellDispelType.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "durabilitycosts",
     "displayName": "DurabilityCosts",
     "dbdName": "DurabilityCosts.dbd",
@@ -42,10 +21,31 @@
     "layoutHashes": []
   },
   {
+    "name": "factiontemplate",
+    "displayName": "FactionTemplate",
+    "dbdName": "FactionTemplate.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "durabilityquality",
     "displayName": "DurabilityQuality",
     "dbdName": "DurabilityQuality.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/DurabilityQuality.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spelldispeltype",
+    "displayName": "SpellDispelType",
+    "dbdName": "SpellDispelType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellDispelType.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "cfg_configs",
+    "displayName": "Cfg_Configs",
+    "dbdName": "Cfg_Configs.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Cfg_Configs.dbd",
     "layoutHashes": []
   }
 ]

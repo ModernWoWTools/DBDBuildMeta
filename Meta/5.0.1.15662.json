@@ -7,10 +7,10 @@
     "layoutHashes": []
   },
   {
-    "name": "skilllineability",
-    "displayName": "SkillLineAbility",
-    "dbdName": "SkillLineAbility.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLineAbility.dbd",
+    "name": "spellauraoptions",
+    "displayName": "SpellAuraOptions",
+    "dbdName": "SpellAuraOptions.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraOptions.dbd",
     "layoutHashes": []
   },
   {
@@ -21,10 +21,10 @@
     "layoutHashes": []
   },
   {
-    "name": "spellauraoptions",
-    "displayName": "SpellAuraOptions",
-    "dbdName": "SpellAuraOptions.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraOptions.dbd",
+    "name": "skilllineability",
+    "displayName": "SkillLineAbility",
+    "dbdName": "SkillLineAbility.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLineAbility.dbd",
     "layoutHashes": []
   }
 ]
