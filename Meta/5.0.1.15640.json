@@ -1,16 +1,16 @@
 [
   {
-    "name": "creature",
-    "displayName": "Creature",
-    "dbdName": "Creature.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Creature.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "spellauraoptions",
     "displayName": "SpellAuraOptions",
     "dbdName": "SpellAuraOptions.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraOptions.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "creature",
+    "displayName": "Creature",
+    "dbdName": "Creature.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Creature.dbd",
     "layoutHashes": []
   }
 ]
