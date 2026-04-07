@@ -7,17 +7,17 @@
     "layoutHashes": []
   },
   {
-    "name": "gtnpcmanacostscaler",
-    "displayName": "gtNPCManaCostScaler",
-    "dbdName": "gtNPCManaCostScaler.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/gtNPCManaCostScaler.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "spell",
     "displayName": "Spell",
     "dbdName": "Spell.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Spell.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "gtnpcmanacostscaler",
+    "displayName": "gtNPCManaCostScaler",
+    "dbdName": "gtNPCManaCostScaler.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/gtNPCManaCostScaler.dbd",
     "layoutHashes": []
   }
 ]

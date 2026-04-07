@@ -1,12 +1,5 @@
 [
   {
-    "name": "questpoiblob",
-    "displayName": "QuestPOIBlob",
-    "dbdName": "QuestPOIBlob.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/QuestPOIBlob.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "spell",
     "displayName": "Spell",
     "dbdName": "Spell.dbd",
@@ -18,6 +11,13 @@
     "displayName": "TalentTab",
     "dbdName": "TalentTab.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TalentTab.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "questpoiblob",
+    "displayName": "QuestPOIBlob",
+    "dbdName": "QuestPOIBlob.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/QuestPOIBlob.dbd",
     "layoutHashes": []
   }
 ]
