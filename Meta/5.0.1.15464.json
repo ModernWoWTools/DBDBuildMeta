@@ -1,12 +1,5 @@
 [
   {
-    "name": "worldelapsedtimer",
-    "displayName": "WorldElapsedTimer",
-    "dbdName": "WorldElapsedTimer.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldElapsedTimer.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "scenescript",
     "displayName": "SceneScript",
     "dbdName": "SceneScript.dbd",
@@ -14,10 +7,10 @@
     "layoutHashes": []
   },
   {
-    "name": "spellreagents",
-    "displayName": "SpellReagents",
-    "dbdName": "SpellReagents.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellReagents.dbd",
+    "name": "lfgdungeons",
+    "displayName": "LFGDungeons",
+    "dbdName": "LFGDungeons.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LFGDungeons.dbd",
     "layoutHashes": []
   },
   {
@@ -35,6 +28,13 @@
     "layoutHashes": []
   },
   {
+    "name": "worldelapsedtimer",
+    "displayName": "WorldElapsedTimer",
+    "dbdName": "WorldElapsedTimer.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldElapsedTimer.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "battlepetability",
     "displayName": "BattlePetAbility",
     "dbdName": "BattlePetAbility.dbd",
@@ -42,10 +42,10 @@
     "layoutHashes": []
   },
   {
-    "name": "lfgdungeons",
-    "displayName": "LFGDungeons",
-    "dbdName": "LFGDungeons.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LFGDungeons.dbd",
+    "name": "spellreagents",
+    "displayName": "SpellReagents",
+    "dbdName": "SpellReagents.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellReagents.dbd",
     "layoutHashes": []
   }
 ]

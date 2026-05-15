@@ -1,5 +1,12 @@
 [
   {
+    "name": "soundentries",
+    "displayName": "SoundEntries",
+    "dbdName": "SoundEntries.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundEntries.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "spellauraoptions",
     "displayName": "SpellAuraOptions",
     "dbdName": "SpellAuraOptions.dbd",
@@ -11,13 +18,6 @@
     "displayName": "PlayerCondition",
     "dbdName": "PlayerCondition.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PlayerCondition.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "soundentries",
-    "displayName": "SoundEntries",
-    "dbdName": "SoundEntries.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundEntries.dbd",
     "layoutHashes": []
   }
 ]
