@@ -1,9 +1,9 @@
 [
   {
-    "name": "scenescript",
-    "displayName": "SceneScript",
-    "dbdName": "SceneScript.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScript.dbd",
+    "name": "battlepetspecies",
+    "displayName": "BattlePetSpecies",
+    "dbdName": "BattlePetSpecies.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetSpecies.dbd",
     "layoutHashes": []
   },
   {
@@ -14,10 +14,17 @@
     "layoutHashes": []
   },
   {
-    "name": "battlepetspecies",
-    "displayName": "BattlePetSpecies",
-    "dbdName": "BattlePetSpecies.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetSpecies.dbd",
+    "name": "battlepetability",
+    "displayName": "BattlePetAbility",
+    "dbdName": "BattlePetAbility.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbility.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "scenescript",
+    "displayName": "SceneScript",
+    "dbdName": "SceneScript.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScript.dbd",
     "layoutHashes": []
   },
   {
@@ -32,13 +39,6 @@
     "displayName": "WorldElapsedTimer",
     "dbdName": "WorldElapsedTimer.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldElapsedTimer.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "battlepetability",
-    "displayName": "BattlePetAbility",
-    "dbdName": "BattlePetAbility.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbility.dbd",
     "layoutHashes": []
   },
   {
