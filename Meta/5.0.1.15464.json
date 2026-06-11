@@ -1,12 +1,5 @@
 [
   {
-    "name": "battlepetspecies",
-    "displayName": "BattlePetSpecies",
-    "dbdName": "BattlePetSpecies.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetSpecies.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "lfgdungeons",
     "displayName": "LFGDungeons",
     "dbdName": "LFGDungeons.dbd",
@@ -21,20 +14,6 @@
     "layoutHashes": []
   },
   {
-    "name": "scenescript",
-    "displayName": "SceneScript",
-    "dbdName": "SceneScript.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScript.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "scenescriptpackagemember",
-    "displayName": "SceneScriptPackageMember",
-    "dbdName": "SceneScriptPackageMember.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScriptPackageMember.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "worldelapsedtimer",
     "displayName": "WorldElapsedTimer",
     "dbdName": "WorldElapsedTimer.dbd",
@@ -42,10 +21,31 @@
     "layoutHashes": []
   },
   {
+    "name": "scenescript",
+    "displayName": "SceneScript",
+    "dbdName": "SceneScript.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScript.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "battlepetspecies",
+    "displayName": "BattlePetSpecies",
+    "dbdName": "BattlePetSpecies.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetSpecies.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "spellreagents",
     "displayName": "SpellReagents",
     "dbdName": "SpellReagents.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellReagents.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "scenescriptpackagemember",
+    "displayName": "SceneScriptPackageMember",
+    "dbdName": "SceneScriptPackageMember.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScriptPackageMember.dbd",
     "layoutHashes": []
   }
 ]

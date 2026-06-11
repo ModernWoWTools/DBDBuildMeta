@@ -1,5 +1,12 @@
 [
   {
+    "name": "attackanimkits",
+    "displayName": "AttackAnimKits",
+    "dbdName": "AttackAnimKits.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimKits.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "charhairtextures",
     "displayName": "CharHairTextures",
     "dbdName": "CharHairTextures.dbd",
@@ -11,13 +18,6 @@
     "displayName": "AttackAnimTypes",
     "dbdName": "AttackAnimTypes.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimTypes.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "attackanimkits",
-    "displayName": "AttackAnimKits",
-    "dbdName": "AttackAnimKits.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimKits.dbd",
     "layoutHashes": []
   }
 ]

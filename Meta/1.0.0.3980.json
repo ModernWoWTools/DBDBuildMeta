@@ -1,9 +1,9 @@
 [
   {
-    "name": "emotes",
-    "displayName": "Emotes",
-    "dbdName": "Emotes.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Emotes.dbd",
+    "name": "chrclasses",
+    "displayName": "ChrClasses",
+    "dbdName": "ChrClasses.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ChrClasses.dbd",
     "layoutHashes": []
   },
   {
@@ -14,10 +14,10 @@
     "layoutHashes": []
   },
   {
-    "name": "chrclasses",
-    "displayName": "ChrClasses",
-    "dbdName": "ChrClasses.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ChrClasses.dbd",
+    "name": "emotes",
+    "displayName": "Emotes",
+    "dbdName": "Emotes.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Emotes.dbd",
     "layoutHashes": []
   }
 ]
