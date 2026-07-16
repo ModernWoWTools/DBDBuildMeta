@@ -1,26 +1,5 @@
 [
   {
-    "name": "spelleffectnames",
-    "displayName": "SpellEffectNames",
-    "dbdName": "SpellEffectNames.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellEffectNames.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "charvariations",
-    "displayName": "CharVariations",
-    "dbdName": "CharVariations.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharVariations.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "map",
-    "displayName": "Map",
-    "dbdName": "Map.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "sheathesoundlookups",
     "displayName": "SheatheSoundLookups",
     "dbdName": "SheatheSoundLookups.dbd",
@@ -28,17 +7,17 @@
     "layoutHashes": []
   },
   {
-    "name": "attackanimtypes",
-    "displayName": "AttackAnimTypes",
-    "dbdName": "AttackAnimTypes.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimTypes.dbd",
+    "name": "petloyalty",
+    "displayName": "PetLoyalty",
+    "dbdName": "PetLoyalty.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PetLoyalty.dbd",
     "layoutHashes": []
   },
   {
-    "name": "charactercreatecameras",
-    "displayName": "CharacterCreateCameras",
-    "dbdName": "CharacterCreateCameras.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharacterCreateCameras.dbd",
+    "name": "map",
+    "displayName": "Map",
+    "dbdName": "Map.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
     "layoutHashes": []
   },
   {
@@ -56,17 +35,38 @@
     "layoutHashes": []
   },
   {
-    "name": "petloyalty",
-    "displayName": "PetLoyalty",
-    "dbdName": "PetLoyalty.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PetLoyalty.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "uisoundlookups",
     "displayName": "UISoundLookups",
     "dbdName": "UISoundLookups.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/UISoundLookups.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "attackanimtypes",
+    "displayName": "AttackAnimTypes",
+    "dbdName": "AttackAnimTypes.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimTypes.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "charactercreatecameras",
+    "displayName": "CharacterCreateCameras",
+    "dbdName": "CharacterCreateCameras.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharacterCreateCameras.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "charvariations",
+    "displayName": "CharVariations",
+    "dbdName": "CharVariations.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/CharVariations.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spelleffectnames",
+    "displayName": "SpellEffectNames",
+    "dbdName": "SpellEffectNames.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellEffectNames.dbd",
     "layoutHashes": []
   }
 ]
