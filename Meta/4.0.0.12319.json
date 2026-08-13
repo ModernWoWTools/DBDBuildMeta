@@ -7,17 +7,17 @@
     "layoutHashes": []
   },
   {
-    "name": "researchproject",
-    "displayName": "ResearchProject",
-    "dbdName": "ResearchProject.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ResearchProject.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "researchfield",
     "displayName": "ResearchField",
     "dbdName": "ResearchField.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ResearchField.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "researchproject",
+    "displayName": "ResearchProject",
+    "dbdName": "ResearchProject.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ResearchProject.dbd",
     "layoutHashes": []
   }
 ]

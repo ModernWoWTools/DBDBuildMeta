@@ -7,13 +7,6 @@
     "layoutHashes": []
   },
   {
-    "name": "factiontemplate",
-    "displayName": "FactionTemplate",
-    "dbdName": "FactionTemplate.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "cfg_configs",
     "displayName": "Cfg_Configs",
     "dbdName": "Cfg_Configs.dbd",
@@ -39,6 +32,13 @@
     "displayName": "DurabilityQuality",
     "dbdName": "DurabilityQuality.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/DurabilityQuality.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "factiontemplate",
+    "displayName": "FactionTemplate",
+    "dbdName": "FactionTemplate.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
     "layoutHashes": []
   },
   {

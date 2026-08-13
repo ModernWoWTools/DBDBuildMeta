@@ -14,6 +14,13 @@
     "layoutHashes": []
   },
   {
+    "name": "worldmapoverlay",
+    "displayName": "WorldMapOverlay",
+    "dbdName": "WorldMapOverlay.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapOverlay.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "spell",
     "displayName": "Spell",
     "dbdName": "Spell.dbd",
@@ -25,13 +32,6 @@
     "displayName": "HelmetGeosetVisData",
     "dbdName": "HelmetGeosetVisData.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/HelmetGeosetVisData.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "worldmapoverlay",
-    "displayName": "WorldMapOverlay",
-    "dbdName": "WorldMapOverlay.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapOverlay.dbd",
     "layoutHashes": []
   }
 ]
