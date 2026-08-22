@@ -511,13 +511,6 @@
     "layoutHashes": []
   },
   {
-    "name": "cfg_configs",
-    "displayName": "Cfg_Configs",
-    "dbdName": "Cfg_Configs.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Cfg_Configs.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "gameobjectdisplayinfo",
     "displayName": "GameObjectDisplayInfo",
     "dbdName": "GameObjectDisplayInfo.dbd",
