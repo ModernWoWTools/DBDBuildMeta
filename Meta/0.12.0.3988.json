@@ -1,9 +1,9 @@
 [
   {
-    "name": "factiontemplate",
-    "displayName": "FactionTemplate",
-    "dbdName": "FactionTemplate.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
+    "name": "durabilitycosts",
+    "displayName": "DurabilityCosts",
+    "dbdName": "DurabilityCosts.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/DurabilityCosts.dbd",
     "layoutHashes": []
   },
   {
@@ -21,17 +21,17 @@
     "layoutHashes": []
   },
   {
-    "name": "cfg_configs",
-    "displayName": "Cfg_Configs",
-    "dbdName": "Cfg_Configs.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Cfg_Configs.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "worldmapcontinent",
     "displayName": "WorldMapContinent",
     "dbdName": "WorldMapContinent.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldMapContinent.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "cfg_configs",
+    "displayName": "Cfg_Configs",
+    "dbdName": "Cfg_Configs.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Cfg_Configs.dbd",
     "layoutHashes": []
   },
   {
@@ -42,10 +42,10 @@
     "layoutHashes": []
   },
   {
-    "name": "durabilitycosts",
-    "displayName": "DurabilityCosts",
-    "dbdName": "DurabilityCosts.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/DurabilityCosts.dbd",
+    "name": "factiontemplate",
+    "displayName": "FactionTemplate",
+    "dbdName": "FactionTemplate.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/FactionTemplate.dbd",
     "layoutHashes": []
   }
 ]
