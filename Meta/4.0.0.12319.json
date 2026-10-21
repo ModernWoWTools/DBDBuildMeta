@@ -7,17 +7,17 @@
     "layoutHashes": []
   },
   {
-    "name": "researchproject",
-    "displayName": "ResearchProject",
-    "dbdName": "ResearchProject.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ResearchProject.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "mountcapability",
     "displayName": "MountCapability",
     "dbdName": "MountCapability.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/MountCapability.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "researchproject",
+    "displayName": "ResearchProject",
+    "dbdName": "ResearchProject.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/ResearchProject.dbd",
     "layoutHashes": []
   }
 ]
