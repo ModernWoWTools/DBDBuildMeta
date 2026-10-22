@@ -7,13 +7,6 @@
     "layoutHashes": []
   },
   {
-    "name": "map",
-    "displayName": "Map",
-    "dbdName": "Map.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "emoteanims",
     "displayName": "EmoteAnims",
     "dbdName": "EmoteAnims.dbd",
@@ -21,10 +14,10 @@
     "layoutHashes": []
   },
   {
-    "name": "areamidiambiences",
-    "displayName": "AreaMIDIAmbiences",
-    "dbdName": "AreaMIDIAmbiences.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaMIDIAmbiences.dbd",
+    "name": "map",
+    "displayName": "Map",
+    "dbdName": "Map.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
     "layoutHashes": []
   },
   {
@@ -35,10 +28,17 @@
     "layoutHashes": []
   },
   {
-    "name": "spell",
-    "displayName": "Spell",
-    "dbdName": "Spell.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Spell.dbd",
+    "name": "areamidiambiences",
+    "displayName": "AreaMIDIAmbiences",
+    "dbdName": "AreaMIDIAmbiences.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaMIDIAmbiences.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "areatable",
+    "displayName": "AreaTable",
+    "dbdName": "AreaTable.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTable.dbd",
     "layoutHashes": []
   },
   {
@@ -49,13 +49,6 @@
     "layoutHashes": []
   },
   {
-    "name": "spellvisualanimname",
-    "displayName": "SpellVisualAnimName",
-    "dbdName": "SpellVisualAnimName.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualAnimName.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "soundproviderpreferences",
     "displayName": "SoundProviderPreferences",
     "dbdName": "SoundProviderPreferences.dbd",
@@ -63,10 +56,17 @@
     "layoutHashes": []
   },
   {
-    "name": "areatable",
-    "displayName": "AreaTable",
-    "dbdName": "AreaTable.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTable.dbd",
+    "name": "spellvisualanimname",
+    "displayName": "SpellVisualAnimName",
+    "dbdName": "SpellVisualAnimName.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellVisualAnimName.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "spell",
+    "displayName": "Spell",
+    "dbdName": "Spell.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Spell.dbd",
     "layoutHashes": []
   }
 ]
