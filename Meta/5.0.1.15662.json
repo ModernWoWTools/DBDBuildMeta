@@ -1,16 +1,16 @@
 [
   {
-    "name": "playercondition",
-    "displayName": "PlayerCondition",
-    "dbdName": "PlayerCondition.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PlayerCondition.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "spellauraoptions",
     "displayName": "SpellAuraOptions",
     "dbdName": "SpellAuraOptions.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SpellAuraOptions.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "skilllineability",
+    "displayName": "SkillLineAbility",
+    "dbdName": "SkillLineAbility.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLineAbility.dbd",
     "layoutHashes": []
   },
   {
@@ -21,10 +21,10 @@
     "layoutHashes": []
   },
   {
-    "name": "skilllineability",
-    "displayName": "SkillLineAbility",
-    "dbdName": "SkillLineAbility.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SkillLineAbility.dbd",
+    "name": "playercondition",
+    "displayName": "PlayerCondition",
+    "dbdName": "PlayerCondition.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/PlayerCondition.dbd",
     "layoutHashes": []
   }
 ]
