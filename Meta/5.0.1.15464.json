@@ -1,12 +1,5 @@
 [
   {
-    "name": "lfgdungeons",
-    "displayName": "LFGDungeons",
-    "dbdName": "LFGDungeons.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LFGDungeons.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "spellreagents",
     "displayName": "SpellReagents",
     "dbdName": "SpellReagents.dbd",
@@ -18,13 +11,6 @@
     "displayName": "BattlePetAbility",
     "dbdName": "BattlePetAbility.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbility.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "scenescriptpackagemember",
-    "displayName": "SceneScriptPackageMember",
-    "dbdName": "SceneScriptPackageMember.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScriptPackageMember.dbd",
     "layoutHashes": []
   },
   {
@@ -42,10 +28,24 @@
     "layoutHashes": []
   },
   {
+    "name": "lfgdungeons",
+    "displayName": "LFGDungeons",
+    "dbdName": "LFGDungeons.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LFGDungeons.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "scenescript",
     "displayName": "SceneScript",
     "dbdName": "SceneScript.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScript.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "scenescriptpackagemember",
+    "displayName": "SceneScriptPackageMember",
+    "dbdName": "SceneScriptPackageMember.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScriptPackageMember.dbd",
     "layoutHashes": []
   }
 ]

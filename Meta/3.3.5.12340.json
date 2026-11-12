@@ -7,10 +7,10 @@
     "layoutHashes": []
   },
   {
-    "name": "soundwatertype",
-    "displayName": "SoundWaterType",
-    "dbdName": "SoundWaterType.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundWaterType.dbd",
+    "name": "attackanimkits",
+    "displayName": "AttackAnimKits",
+    "dbdName": "AttackAnimKits.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimKits.dbd",
     "layoutHashes": []
   },
   {
@@ -21,10 +21,10 @@
     "layoutHashes": []
   },
   {
-    "name": "attackanimkits",
-    "displayName": "AttackAnimKits",
-    "dbdName": "AttackAnimKits.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AttackAnimKits.dbd",
+    "name": "soundwatertype",
+    "displayName": "SoundWaterType",
+    "dbdName": "SoundWaterType.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SoundWaterType.dbd",
     "layoutHashes": []
   }
 ]

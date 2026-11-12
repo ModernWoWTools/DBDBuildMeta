@@ -1,19 +1,5 @@
 [
   {
-    "name": "wmoareatable",
-    "displayName": "WMOAreaTable",
-    "dbdName": "WMOAreaTable.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WMOAreaTable.dbd",
-    "layoutHashes": []
-  },
-  {
-    "name": "map",
-    "displayName": "Map",
-    "dbdName": "Map.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "spell",
     "displayName": "Spell",
     "dbdName": "Spell.dbd",
@@ -21,10 +7,24 @@
     "layoutHashes": []
   },
   {
+    "name": "wmoareatable",
+    "displayName": "WMOAreaTable",
+    "dbdName": "WMOAreaTable.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WMOAreaTable.dbd",
+    "layoutHashes": []
+  },
+  {
     "name": "talenttab",
     "displayName": "TalentTab",
     "dbdName": "TalentTab.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/TalentTab.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "map",
+    "displayName": "Map",
+    "dbdName": "Map.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/Map.dbd",
     "layoutHashes": []
   }
 ]
