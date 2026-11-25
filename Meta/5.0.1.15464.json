@@ -1,9 +1,9 @@
 [
   {
-    "name": "scenescriptpackagemember",
-    "displayName": "SceneScriptPackageMember",
-    "dbdName": "SceneScriptPackageMember.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScriptPackageMember.dbd",
+    "name": "battlepetability",
+    "displayName": "BattlePetAbility",
+    "dbdName": "BattlePetAbility.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbility.dbd",
     "layoutHashes": []
   },
   {
@@ -14,17 +14,17 @@
     "layoutHashes": []
   },
   {
-    "name": "lfgdungeons",
-    "displayName": "LFGDungeons",
-    "dbdName": "LFGDungeons.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LFGDungeons.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "worldelapsedtimer",
     "displayName": "WorldElapsedTimer",
     "dbdName": "WorldElapsedTimer.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/WorldElapsedTimer.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "scenescriptpackagemember",
+    "displayName": "SceneScriptPackageMember",
+    "dbdName": "SceneScriptPackageMember.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/SceneScriptPackageMember.dbd",
     "layoutHashes": []
   },
   {
@@ -35,10 +35,10 @@
     "layoutHashes": []
   },
   {
-    "name": "battlepetability",
-    "displayName": "BattlePetAbility",
-    "dbdName": "BattlePetAbility.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/BattlePetAbility.dbd",
+    "name": "lfgdungeons",
+    "displayName": "LFGDungeons",
+    "dbdName": "LFGDungeons.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/LFGDungeons.dbd",
     "layoutHashes": []
   },
   {
