@@ -14,13 +14,6 @@
     "layoutHashes": []
   },
   {
-    "name": "helmetgeosetvisdata",
-    "displayName": "HelmetGeosetVisData",
-    "dbdName": "HelmetGeosetVisData.dbd",
-    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/HelmetGeosetVisData.dbd",
-    "layoutHashes": []
-  },
-  {
     "name": "spell",
     "displayName": "Spell",
     "dbdName": "Spell.dbd",
@@ -32,6 +25,13 @@
     "displayName": "AreaTable",
     "dbdName": "AreaTable.dbd",
     "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/AreaTable.dbd",
+    "layoutHashes": []
+  },
+  {
+    "name": "helmetgeosetvisdata",
+    "displayName": "HelmetGeosetVisData",
+    "dbdName": "HelmetGeosetVisData.dbd",
+    "dbdUrl": "https://raw.githubusercontent.com/wowdev/WoWDBDefs/master/definitions/HelmetGeosetVisData.dbd",
     "layoutHashes": []
   }
 ]
